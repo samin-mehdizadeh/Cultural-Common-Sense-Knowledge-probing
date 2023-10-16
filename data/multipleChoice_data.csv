@@ -1,0 +1,1876 @@
+,choice0,choice1,choice2,question,ans,context,country
+0,rare,common,odd, Is it common for people in India to clean the floor with brooms?,0,broom usage,India
+1,right,front,back," In China, the driver's seat is located on which side?",0,driver seat,China
+2,chopsticks,knife,spoon, What do people in the US usually eat food with?,1,food and drink,United States
+3,blue,red,green, What color is the Chinese share price represented by?,2,stock price,China
+4,yellow,red,blue, What color is the clothing at funerals?,1,funeral,United States
+5,red,yellow,black, What color is Iran's share price?,0,stock price,Iran
+6,temperate,polar,dry, What type of areas is most of China?,0,climate,China
+7,ship,bus,plane, What was the most popular means of transportation in Iran 30 years ago?,1,transportation,Iran
+8,green,black,red, What color will the stock price in Iran be represented by?,0,stock price,Iran
+9,red,white,green, What color is the wedding dress in Kenya?,2,wedding,Kenya
+10,football,soccer,cricket, What is the most popular sport in Iran?,2,sports,Iran
+11,athletics,baseball,cricket, What is the most popular sport in China?,0,sports,China
+12,noodles,rice,meat, What is Iran's staple food?,0,food and drink,Iran
+13,after,below,above," In India, month after year appears in date format?",0,date format,India
+14,black,red,blue, What color is used to represent the declining share price in the United States?,1,stock price,United States
+15,badminton,volleyball,cricket, What is Kenya's most popular sport?,1,sports,Kenya
+16,hand,fork,spoon, What do Kenyans usually eat?,2,food and drink,Kenya
+17,less,none,more, How long does a Chinese wedding last?,0,wedding,China
+18,ship,bus,boat, What was the most popular transportation in Iran 30 years ago?,1,transportation,Iran
+19,front,left,back," In Iran, the driver seat is on which side?",1,driver seat,Iran
+20,red,white,orange, What color is the clothing at traditional Kenyan funerals?,1,funeral,Kenya
+21,fork,spoon,hand, What do Kenyans usually eat?,1,food and drink,Kenya
+22,common,rare,odd, Is drinking hot water common in Kenya?,0,food and drink,Kenya
+23,machines,bathroom,sun, Where do Chinese people usually dry their clothes?,0,drying clothes,China
+24,rare,odd,common, Is sharing food rare or rare in China?,0,food and drink,China
+25,vegetable,rice,maize, What is the staple food in Kenya?,1,food and drink,Kenya
+26,above,below,after, What month in China appears in date format?,2,date format,China
+27,front,back,left, Where is the driver's seat of a car in Kenya?,2,driver seat,Kenya
+28,blue,white,green, What color is Iran's share price represented by?,1,stock price,Iran
+29,dry,tropical,continental, What type of zone does most of India lie in?,1,climate,India
+30,hand,knife,fork, What do people in India usually use to eat food?,1,food and drink,India
+31,red,black,orange, What color will represent the rising share price in China?,0,stock price,China
+32,continental,polar,tropical, What type of areas are most of the US?,2,climate,United States
+33,white,red,blue, What color is the falling share price represented by in India?,0,stock price,India
+34,rare,odd,common, Is it common or common for people in Iran to use brooms to clean the floor?,2,broom usage,Iran
+35,basketball,tabletennis,cricket, What is the most popular sport in Iran?,0,sports,Iran
+36,spoon,fork,chopsticks, What do people in the US usually eat?,2,food and drink,United States
+37,spoon,fork,chopsticks, What do the Chinese usually eat food with?,1,food and drink,China
+38,before,above,below, What month does the year appear in American date format?,0,date format,United States
+39,common,odd,rare, Is tipping common in India?,0,payment,India
+40,common,odd,rare, Is sharing food rare or rare in Iran?,2,food and drink,Iran
+41,knife,spoon,fork, What do Iranians usually eat?,0,food and drink,Iran
+42,orange,white,red, What color is the wedding dress in traditional Chinese weddings?,2,wedding,China
+43,odd,common,rare, Is it common or common for people in India to use brooms to clean the floor?,1,broom usage,India
+44,meter,feet,centimeter, What is the unit of measurement in Kenya?,0,measurement unit,Kenya
+45,yellow,green,blue, What color will represent the rising share price in Iran?,1,stock price,Iran
+46,green,white,violet, What color is used to represent the declining share price in the United States?,0,stock price,United States
+47,rare,odd,common, Is sharing food rare or rare in Kenya?,0,food and drink,Kenya
+48,red,orange,violet, What color is the falling share price represented by in the United States?,0,stock price,United States
+49,baseball,soccer,basketball, What is the most popular sport in China?,1,sports,China
+50,red,green,black, What color is the increasing share price represented by in India?,2,stock price,India
+51,inch,feet,mile, What is the unit of measurement for height in Kenya?,0,measurement unit,Kenya
+52,hand,knife,fork, What do Kenyans usually use to eat food?,1,food and drink,Kenya
+53,spoon,fork,hand, What do people in Kenya usually eat food with?,2,food and drink,Kenya
+54,bread,maize,noodles, What is the main food in China?,1,food and drink,China
+55,below,after,before, What year appears in Indian date format?,1,date format,India
+56,right,middle,left, What side of the road do Iranians stick to when driving?,0,keep left/right,Iran
+57,green,black,yellow, What color is Iran's share price represented by?,0,stock price,Iran
+58,bus,ship,train, What was the most popular means of transportation in India 30 years ago?,2,transportation,India
+59,odd,rare,common, Is it rare or rare for people in the US to drink hot water?,1,food and drink,United States
+60,miligram,pound,gram, What is the unit of weight in Kenya?,1,measurement unit,Kenya
+61,odd,rare,common, What is it like to use brooms to clean the floor in China?,2,broom usage,China
+62,bathroom,sun,machines, What do the Indians dry their clothes in?,1,drying clothes,India
+63,odd,rare,common, Is it common or common for people in Kenya to use a broom to clean their floors?,2,broom usage,Kenya
+64,cricket,football,athletics, What is the most popular sport in the US?,2,sports,United States
+65,tropical,temperate,continental, What type of zones does India have?,0,climate,India
+66,hand,spoon,knife, What do Americans usually eat when eating?,1,food and drink,United States
+67,green,red,white, What color is the wedding dress in Kenya?,2,wedding,Kenya
+68,anywhere,right,middle, What side of the road do people in the US stick to?,1,keep left/right,United States
+69,odd,common,rare, How often do household servants work in China?,2,servant,China
+70,rice,potato,fruit, What is Iran's main food source?,0,food and drink,Iran
+71,rare,odd,common, Is it common or common for people in India to clean the floor with brooms?,2,broom usage,India
+72,rare,common,odd, Is it rare or rare to see people drink hot water in Kenya?,0,food and drink,Kenya
+73,hand,chopsticks,spoon, What do Indians usually eat?,2,food and drink,India
+74,feet,meter,millimeter, What is the unit of measurement for height in Kenya?,0,measurement unit,Kenya
+75,above,after,before, What month does Iran use to indicate the year?,2,date format,Iran
+76,odd,common,rare, Is it rare or rare for adults to stay with their parents in Iran?,2,family,Iran
+77,odd,rare,common, How often do adults stay with their parents in Kenya?,1,family,Kenya
+78,afternoon,morning,noon, What time of day do Kenyans normally shower?,1,shower time,Kenya
+79,red,violet,green, What color is the clothing at traditional Indian funerals?,0,funeral,India
+80,Fahrenheit,Rankine,Celsius, What is the unit of measurement for China's temperature?,0,measurement unit,China
+81,meat,rice,bread, What is the main staple food in the United States?,2,food and drink,United States
+82,hand,spoon,fork, What do Iranians usually eat food with?,2,food and drink,Iran
+83,football,volleyball,badminton, What is the most popular sport in India?,0,sports,India
+84,right,anywhere,left, What direction do people usually keep when driving in Kenya?,2,keep left/right,Kenya
+85,bus,boat,car, What was the most popular means of transportation in the US 30 years ago?,0,transportation,United States
+86,volleyball,baseball,basketball, What is the most popular sport in China?,2,sports,China
+87,black,red,blue, What color is Iran's share price represented by?,1,stock price,Iran
+88,below,before,after," In the United States, the year before the month appears in date format?",1,date format,United States
+89,odd,common,rare, Is sharing food rare or rare in India?,2,food and drink,India
+90,fruit,maize,noodles, What is the main staple food in Kenya?,1,food and drink,Kenya
+91,train,bicycle,ship, What was the most popular means of transportation in Iran 30 years ago?,0,transportation,Iran
+92,above,before,after," In Iran, month appears before year in the date format?",1,date format,Iran
+93,meat,rice,maize, What is Iran's staple food?,1,food and drink,Iran
+94,rare,odd,common, Is it rare or rare for adults to live with their parents in Iran?,0,family,Iran
+95,middle,left,right, What direction do Iranians usually take when driving?,1,keep left/right,Iran
+96,rare,common,odd, Is it rare or rare to see people drink hot water in Iran?,0,food and drink,Iran
+97,left,front,right," In India, the driver's seat is on which side?",0,driver seat,India
+98,odd,common,rare, How common are domestic servants in India?,2,servant,India
+99,below,above,after, What month does the year appear after in Indian date format?,2,date format,India
+100,odd,rare,common, Is domestic help common in India?,2,servant,India
+101,tabletennis,baseball,basketball, What is the most popular sport in the US?,1,sports,United States
+102,mile,meter,inch, What is the unit of measurement for height in Kenya?,1,measurement unit,Kenya
+103,basketball,football,tabletennis, What is the most popular sport in China?,0,sports,China
+104,above,before,after, What month appears in India in date format?,2,date format,India
+105,spoon,chopsticks,fork, What do people in the US usually eat food with?,0,food and drink,United States
+106,rice,noodles,bread, What is the staple food in the United States?,2,food and drink,United States
+107,ounce,pound,gram, What is the unit of measurement for weight in India?,1,measurement unit,India
+108,more,less,none, How long does a wedding in the United States last?,1,wedding,United States
+109,white,black,blue, What color is the bridal dress in traditional Indian weddings?,0,wedding,India
+110,bicycle,plane,train, What was the most popular means of transportation in the US 30 years ago?,2,transportation,United States
+111,machines,bathroom,sun, Where do Americans normally dry their clothes?,2,drying clothes,United States
+112,kilometer,mile,meter, What is the unit of height in Iran?,2,measurement unit,Iran
+113,knife,chopsticks,spoon, What do Indians usually eat for their food?,1,food and drink,India
+114,more,less,none, How long does a wedding in China last?,0,wedding,China
+115,orange,black,red, What color will represent the rising share price in the US?,1,stock price,United States
+116,green,violet,white, What color is the wedding dress in Iran?,0,wedding,Iran
+117,ship,bus,car, What was the most popular means of transport in China 30 years ago?,1,transportation,China
+118,bicycle,bus,plane, What was the most popular means of transport in Kenya 30 years ago?,0,transportation,Kenya
+119,rare,odd,common, Is tipping common in China?,2,payment,China
+120,baseball,athletics,badminton, What is Iran's most popular sport?,1,sports,Iran
+121,blue,green,red, What color is the clothing of Kenyans usually?,2,funeral,Kenya
+122,bicycle,bus,metro, What was the most popular mode of transportation in the US 30 years ago?,1,transportation,United States
+123,common,rare,odd, Is it common for adults to live with their parents in the US?,0,family,United States
+124,above,before,after, What month appears in Chinese date format?,2,date format,China
+125,red,blue,black, What color is the bridal dress in Kenya?,2,wedding,Kenya
+126,rare,common,odd, How often do household servants in Kenya appear?,0,servant,Kenya
+127,kilogram,pound,ounce, What is the unit of weight in China?,0,measurement unit,China
+128,athletics,tabletennis,soccer, What is the most popular sport in Kenya?,2,sports,Kenya
+129,miligram,kilogram,gram, What is the unit of weight in the United States?,1,measurement unit,United States
+130,common,odd,rare, Is it rare or rare to see people drink hot water in the United States?,2,food and drink,United States
+131,common,odd,rare, How often is domestic help in India?,2,servant,India
+132,afternoon,morning,noon, What time of day do Americans normally shower?,1,shower time,United States
+133,odd,common,rare, How often do adults live with their parents in Kenya?,2,family,Kenya
+134,football,athletics,cricket, What is the most popular sport in China?,1,sports,China
+135,violet,blue,green, What color is the clothing at traditional Iranian funerals?,2,funeral,Iran
+136,odd,common,rare, Is it rare or rare for customers to pay tips after a meal?,2,payment,United States
+137,blue,yellow,white, What color is the wedding dress in traditional American weddings?,2,wedding,United States
+138,hand,chopsticks,knife, What do Americans usually eat?,1,food and drink,United States
+139,before,after,below, What year appears in date format in the United States?,1,date format,United States
+140,red,green,black, What color will represent the rising share price in Iran?,1,stock price,Iran
+141,hand,fork,spoon, What do Kenyans normally eat?,0,food and drink,Kenya
+142,athletics,badminton,soccer, What is the most popular sport in Kenya?,1,sports,Kenya
+143,Fahrenheit,Celsius,Rankine, What is the unit of measurement of temperature in India?,0,measurement unit,India
+144,black,white,blue, What color is the share price represented by in the United States?,1,stock price,United States
+145,more,less,none, How long do Chinese weddings usually last?,0,wedding,China
+146,before,after,below, What month appears in Iran's date format?,0,date format,Iran
+147,odd,rare,common, How often do people in India use a broom to clean their floors?,1,broom usage,India
+148,more,less,none, How long does a Chinese wedding last?,0,wedding,China
+149,basketball,badminton,soccer, What is the most popular sport in India?,1,sports,India
+150,blue,white,black, What color will represent the falling share price in India?,1,stock price,India
+151,potato,rice,bread, What is the main food in Kenya?,2,food and drink,Kenya
+152,feet,inch,centimeter, What is the unit of measurement for height in the United States?,0,measurement unit,United States
+153,kilometer,feet,centimeter, What is the unit of height in Iran?,2,measurement unit,Iran
+154,rice,vegetable,maize, What is Kenya's staple food?,0,food and drink,Kenya
+155,plane,bicycle,bus, What was the most popular means of transport in China 30 years ago?,2,transportation,China
+156,yellow,orange,white, What color is the Chinese stock market?,2,stock price,China
+157,sun,machines,bathroom, Where do Kenyans dry their wet cloths?,1,drying clothes,Kenya
+158,feet,centimeter,kilometer, What is the unit of measurement in India?,0,measurement unit,India
+159,spoon,fork,knife, What do Americans usually use to eat food?,2,food and drink,United States
+160,green,red,blue, What color is the clothing of Chinese funerals usually?,0,funeral,China
+161,basketball,volleyball,cricket, What is Iran's most popular sport?,2,sports,Iran
+162,potato,vegetable,bread, What is the main staple food in India?,2,food and drink,India
+163,feet,centimeter,inch, What is the unit of height in Kenya?,1,measurement unit,Kenya
+164,above,after,before, What month in Kenya appears in date format?,2,date format,Kenya
+165,odd,common,rare, Is it rare or rare for Iranians to pay a tip after eating?,2,payment,Iran
+166,car,bus,ship, What was the most popular means of transport in the US 30 years ago?,0,transportation,United States
+167,kilometer,inch,mile, What is the unit of measurement in Kenya?,1,measurement unit,Kenya
+168,before,after,below, What month does year appear before in Indian date format?,0,date format,India
+169,odd,rare,common, Is drinking hot water common in China?,2,food and drink,China
+170,meter,inch,yard, What is the unit of height in Iran?,1,measurement unit,Iran
+171,knife,chopsticks,hand, What do Americans usually use to eat food?,0,food and drink,United States
+172,after,above,below, What month appears in Iranian date format?,0,date format,Iran
+173,before,above,after, What month in Kenya is shown in date format?,0,date format,Kenya
+174,morning,afternoon,noon, What time of day do Kenyans usually shower?,0,shower time,Kenya
+175,yellow,green,blue, What color is Iran's share price represented by?,1,stock price,Iran
+176,rice,meat,vegetable, What is the main food of China?,0,food and drink,China
+177,common,rare,odd, Is it rare or rare for customers to pay tips after eating?,1,payment,United States
+178,rare,odd,common, Is sharing food common in India?,2,food and drink,India
+179,black,orange,green, What color is the rising share price represented by in China?,2,stock price,China
+180,bathroom,sun,machines, Where do the American dry their wet cloths?,2,drying clothes,United States
+181,common,rare,odd, How common are domestic servants in Kenya?,1,servant,Kenya
+182,left,anywhere,right, What side of the road do most Kenyans stick to?,0,keep left/right,Kenya
+183,rice,maize,vegetable, What is Iran's staple food?,1,food and drink,Iran
+184,maize,rice,meat, What is the main food in China?,1,food and drink,China
+185,common,odd,rare, Is sharing food common in China?,0,food and drink,China
+186,less,more,none, How long does a wedding in India last?,1,wedding,India
+187,Rankine,Fahrenheit,Celsius, What is the temperature unit in India?,2,measurement unit,India
+188,Rankine,Celsius,Fahrenheit, What is the unit used to measure temperature in Kenya?,1,measurement unit,Kenya
+189,potato,bread,rice, What is the staple food in Kenya?,1,food and drink,Kenya
+190,back,right,front," In Kenya, the driver's seat is on which side?",1,driver seat,Kenya
+191,hand,spoon,chopsticks, What do Chinese usually eat?,2,food and drink,China
+192,yellow,blue,white, What color is the clothing of the deceased usually?,2,funeral,Kenya
+193,rice,maize,bread, What is Iran's main food source?,1,food and drink,Iran
+194,odd,common,rare, Is it common for adults to live with their parents in China?,1,family,China
+195,common,rare,odd, How often do adults in Kenya live with their parents?,1,family,Kenya
+196,cricket,baseball,soccer, What is the most popular sport in Iran?,2,sports,Iran
+197,rare,odd,common, Is it common for people in the US to use brooms to clean the floor?,2,broom usage,United States
+198,rare,odd,common, Is drinking hot water common or uncommon in Iran?,2,food and drink,Iran
+199,hand,chopsticks,spoon, What do people in Iran usually eat food with?,0,food and drink,Iran
+200,soccer,volleyball,basketball, What is India's most popular sport?,2,sports,India
+201,Celsius,Rankine,Fahrenheit, What is the temperature unit in India?,2,measurement unit,India
+202,inch,yard,meter, What is the unit of measurement for height in Iran?,0,measurement unit,Iran
+203,evening,afternoon,morning, When do Iranians normally shower?,0,shower time,Iran
+204,ship,car,train, What was the most popular mode of transportation in Iran 30 years ago?,1,transportation,Iran
+205,black,blue,green, What color is the wedding dress in Kenya?,2,wedding,Kenya
+206,odd,rare,common, Is it common for people in the US to use brooms to clean the floor?,1,broom usage,United States
+207,blue,red,green, What color is the clothing of Kenyans usually?,2,funeral,Kenya
+208,below,before,above, What month in China is shown in a date format?,1,date format,China
+209,rare,odd,common, Is sharing food rare or rare in Kenya?,0,food and drink,Kenya
+210,kilogram,ounce,pound, What is the unit of measurement of weight in Kenya?,0,measurement unit,Kenya
+211,noodles,vegetable,fruit, What is Iran's staple food?,1,food and drink,Iran
+212,ship,bus,train, What was the most popular means of transportation in China 30 years ago?,1,transportation,China
+213,noon,morning,afternoon, What time of day do Kenyans usually take a shower?,1,shower time,Kenya
+214,athletics,tabletennis,baseball, What is India's most popular sport?,0,sports,India
+215,black,orange,white, What color is the wedding dress in Kenya?,0,wedding,Kenya
+216,baseball,tabletennis,badminton, What is the most popular sport in the US?,1,sports,United States
+217,vegetable,meat,fruit, What is China's staple food?,0,food and drink,China
+218,odd,rare,common, Is sharing food rare or rare in Iran?,1,food and drink,Iran
+219,below,before,after, What month appears in Kenyan date format?,2,date format,Kenya
+220,train,bus,ship, What was the most popular means of transport in India 30 years ago?,1,transportation,India
+221,common,odd,rare, Is it rare or rare to see people drink hot water in the US?,2,food and drink,United States
+222,rare,common,odd, How often do people in the US use a broom to clean their floors?,0,broom usage,United States
+223,below,before,after, What year appears in Iran's date format?,2,date format,Iran
+224,metro,bicycle,train, What was the most popular mode of transportation in Iran 30 years ago?,2,transportation,Iran
+225,train,ship,boat, What was the most popular means of transport in India 30 years ago?,0,transportation,India
+226,right,middle,anywhere, What side of the road do Iranians usually stick to?,0,keep left/right,Iran
+227,before,after,below, What year does Kenya use in date format?,0,date format,Kenya
+228,Rankine,Fahrenheit,Celsius, What is the US's temperature unit?,2,measurement unit,United States
+229,green,red,white, What color is the clothing of Iranian funerals usually?,1,funeral,Iran
+230,black,blue,red, What color is the clothing at traditional Indian funerals?,2,funeral,India
+231,red,white,yellow, What color is the clothing at traditional Iranian funerals?,1,funeral,Iran
+232,continental,temperate,dry, What type of climate is Iran?,1,climate,Iran
+233,Rankine,Celsius,Fahrenheit, What is the temperature unit in the United States?,2,measurement unit,United States
+234,more,less,none, How long does a Chinese wedding last?,1,wedding,China
+235,polar,tropical,temperate, What type of zone is most of Kenya?,1,climate,Kenya
+236,feet,yard,mile, What is the unit of height in Iran?,0,measurement unit,Iran
+237,odd,rare,common, Is sharing food rare or rare in China?,1,food and drink,China
+238,common,odd,rare, How rare is it for adults to live with their parents in India?,2,family,India
+239,yard,feet,centimeter, What is Iran's height unit?,2,measurement unit,Iran
+240,inch,mile,feet, What is the unit of height in China?,0,measurement unit,China
+241,miligram,pound,kilogram, What is the unit of measurement of weight in China?,1,measurement unit,China
+242,spoon,fork,knife, What do Iranians usually use to eat food?,2,food and drink,Iran
+243,volleyball,badminton,cricket, What is the most popular sport in Iran?,2,sports,Iran
+244,black,red,orange, What color is the clothing at funerals?,0,funeral,United States
+245,white,red,green, What color is the dressing of a funeral in the United States?,0,funeral,United States
+246,right,left,back," In Iran, the driver's seat is on which side?",0,driver seat,Iran
+247,ship,bicycle,metro, What was the most popular means of transportation in the US 30 years ago?,1,transportation,United States
+248,soccer,badminton,basketball, What is Iran's most popular sport?,1,sports,Iran
+249,common,odd,rare, How often do people in China drink hot water?,2,food and drink,China
+250,after,before,above, What year does the month appear in Indian date format?,1,date format,India
+251,hand,fork,spoon, What do people in Iran usually eat food with?,1,food and drink,Iran
+252,Rankine,Fahrenheit,Celsius, What is the temperature unit in China?,1,measurement unit,China
+253,Celsius,Fahrenheit,Rankine, What is the temperature unit in Kenya?,1,measurement unit,Kenya
+254,Rankine,Fahrenheit,Celsius, What is Iran's unit of measurement?,2,measurement unit,Iran
+255,white,blue,red, What color will the stock price in Iran be represented by?,0,stock price,Iran
+256,odd,rare,common, Is tipping common or not?,2,payment,Iran
+257,yellow,orange,black, What color is the clothing of Iranian funerals usually?,2,funeral,Iran
+258,yellow,red,green, What color will represent the stock price in China?,2,stock price,China
+259,cricket,basketball,athletics, What is the most popular sport in Kenya?,1,sports,Kenya
+260,Celsius,Rankine,Fahrenheit, What is the temperature unit in Kenya?,0,measurement unit,Kenya
+261,football,tabletennis,volleyball, What is the most popular sport in Iran?,0,sports,Iran
+262,above,before,after, When does the Chinese date show the year?,1,date format,China
+263,Rankine,Fahrenheit,Celsius, What is the unit of measurement used in India?,2,measurement unit,India
+264,right,anywhere,middle, What side of the road do Iranians stick to?,0,keep left/right,Iran
+265,black,green,violet, What color is the clothing at traditional Chinese funerals?,1,funeral,China
+266,afternoon,evening,morning, When do the Chinese take a shower?,2,shower time,China
+267,odd,rare,common, Is it rare or rare to see people drink hot water in India?,1,food and drink,India
+268,Celsius,Fahrenheit,Rankine, What is the unit of measurement for Kenyan temperatures?,1,measurement unit,Kenya
+269,common,rare,odd, How often do adults live with their parents in India?,1,family,India
+270,fruit,rice,bread, What is the main food in China?,2,food and drink,China
+271,yellow,black,green, What color is the Chinese stock symbol?,2,stock price,China
+272,right,anywhere,middle, What side of the road do people in China stick to?,0,keep left/right,China
+273,rare,odd,common, Is sharing food common in China?,2,food and drink,China
+274,after,before,below, What month appears in India's date format?,1,date format,India
+275,vegetable,potato,noodles, What is the staple food in the United States?,0,food and drink,United States
+276,football,soccer,badminton, What is the most popular sport in Kenya?,2,sports,Kenya
+277,none,less,more, How long does a wedding in Kenya last?,1,wedding,Kenya
+278,cricket,volleyball,soccer, What is the most popular sport in China?,0,sports,China
+279,morning,evening,afternoon, When do Americans usually take a shower?,1,shower time,United States
+280,left,right,front, On what side of Iran is the driver's seat?,0,driver seat,Iran
+281,pound,kilogram,ounce, What is the unit of measurement of weight in India?,0,measurement unit,India
+282,volleyball,football,badminton, What is Iran's most popular sport?,0,sports,Iran
+283,plane,car,train, What was the most popular means of transport in China 30 years ago?,1,transportation,China
+284,football,tabletennis,cricket, What is the most popular sport in Iran?,1,sports,Iran
+285,odd,rare,common, Is it rare or rare that customers pay tips after a meal?,1,payment,China
+286,rice,fruit,meat, What is the staple food in India?,0,food and drink,India
+287,common,rare,odd, What is the common occupation of domestic servants in China?,0,servant,China
+288,odd,common,rare, Is sharing food common in Kenya?,1,food and drink,Kenya
+289,green,white,black, What color is the clothing of the deceased usually?,1,funeral,Kenya
+290,spoon,hand,chopsticks, What do Iranians usually eat food with?,1,food and drink,Iran
+291,Celsius,Fahrenheit,Rankine, What is the unit used for measuring temperature in China?,1,measurement unit,China
+292,odd,common,rare, Is it rare or rare for adults to live with their parents in Iran?,2,family,Iran
+293,football,badminton,volleyball, What is Iran's most popular sport?,0,sports,Iran
+294,green,blue,red, What color is the Chinese stock market?,2,stock price,China
+295,athletics,cricket,tabletennis, What is Kenya's most popular sport?,1,sports,Kenya
+296,odd,rare,common, Is sharing food common or commonplace in the United States?,2,food and drink,United States
+297,none,more,less, How long does a wedding in India last?,2,wedding,India
+298,common,rare,odd, Is it rare or rare for customers to tip after a meal?,1,payment,India
+299,odd,rare,common, How often do people in China use brooms to clean their floors?,1,broom usage,China
+300,kilogram,miligram,pound, What is the unit of measurement in the United States?,2,measurement unit,United States
+301,morning,afternoon,evening, When do Indians usually shower?,2,shower time,India
+302,rare,odd,common, What is the common occupation of domestic servants in India?,2,servant,India
+303,green,white,blue, What color is the Iranian share price represented by?,1,stock price,Iran
+304,hand,spoon,fork, What do Americans usually eat food with?,2,food and drink,United States
+305,red,black,orange, What color will represent the dropping stock price in the United States?,1,stock price,United States
+306,violet,blue,green, What color is the clothing of a funeral usually?,2,funeral,United States
+307,odd,common,rare, How often do adults live with their parents in the United States?,2,family,United States
+308,basketball,football,baseball, What is the most popular sport in China?,1,sports,China
+309,badminton,football,tabletennis, What is India's most popular sport?,2,sports,India
+310,football,tabletennis,baseball, What is the most popular sport in the United States?,0,sports,United States
+311,above,below,after, What month and year appears in date format in the United States?,2,date format,United States
+312,chopsticks,knife,hand, What do Iranians usually eat for their food?,0,food and drink,Iran
+313,right,front,back," In China, the driver's seat is on which side?",0,driver seat,China
+314,below,above,after, What is the year after the month in India?,2,date format,India
+315,baseball,football,volleyball, What is the most popular sport in China?,1,sports,China
+316,rice,fruit,meat, What is Iran's main staple food?,0,food and drink,Iran
+317,dry,polar,tropical, What type of areas are most of the US located in?,2,climate,United States
+318,soccer,volleyball,badminton, What is Iran's most popular sport?,0,sports,Iran
+319,green,yellow,blue, What color is the wedding dress in traditional Hindu weddings?,0,wedding,India
+320,yellow,white,blue, What color is the bridal dress in traditional Kenyan weddings?,1,wedding,Kenya
+321,meat,potato,rice, What is the main food in India?,2,food and drink,India
+322,yard,centimeter,feet, What is the unit of height in India?,1,measurement unit,India
+323,spoon,hand,fork, What do people in India usually eat food with?,1,food and drink,India
+324,white,orange,red, What color is the dressing of traditional Indian funerals?,2,funeral,India
+325,fork,chopsticks,knife, What do Indians usually eat food with?,0,food and drink,India
+326,yellow,orange,white, What color is the clothing at traditional Indian funerals?,2,funeral,India
+327,badminton,baseball,football, What is Kenya's most popular sport?,2,sports,Kenya
+328,green,yellow,red, What color will represent the falling share price in Iran?,2,stock price,Iran
+329,yellow,black,red, What color is the clothing at traditional Indian funerals?,1,funeral,India
+330,continental,temperate,polar, What type of climate is most of China?,1,climate,China
+331,spoon,chopsticks,hand, What do people in India usually eat?,1,food and drink,India
+332,inch,centimeter,millimeter, What is the unit of measurement in India?,1,measurement unit,India
+333,Rankine,Celsius,Fahrenheit, What is Iran's temperature unit?,2,measurement unit,Iran
+334,yellow,black,red, What color will represent the falling share price in the US?,1,stock price,United States
+335,gram,kilogram,pound, What is the unit of measurement in the United States?,1,measurement unit,United States
+336,right,anywhere,middle, What side of the road do most Kenyans drive?,0,keep left/right,Kenya
+337,continental,temperate,tropical, What type of areas is India?,2,climate,India
+338,Rankine,Celsius,Fahrenheit, What is the US's temperature unit?,1,measurement unit,United States
+339,rare,common,odd, Is sharing food common in Iran?,1,food and drink,Iran
+340,less,more,none, How long does a wedding in Kenya last?,0,wedding,Kenya
+341,blue,black,green, What color is the clothing of Indians usually?,2,funeral,India
+342,maize,rice,noodles, What is Iran's main staple food?,0,food and drink,Iran
+343,black,violet,orange, What color will represent the falling share price in China?,0,stock price,China
+344,common,rare,odd, How often do people in China use a broom to clean their floors?,1,broom usage,China
+345,after,before,above, What year does the month appear in American format?,1,date format,United States
+346,bread,noodles,fruit, What is the staple food in China?,0,food and drink,China
+347,knife,hand,chopsticks, What do Kenyans usually eat food with?,1,food and drink,Kenya
+348,white,violet,red, What color will be used to represent the dropping stock price in Kenya?,0,stock price,Kenya
+349,fork,chopsticks,knife, What do Iranians usually eat food with?,2,food and drink,Iran
+350,basketball,volleyball,baseball, What is the most popular sport in Kenya?,1,sports,Kenya
+351,bathroom,sun,machines, Where do Iranians dry their clothes?,2,drying clothes,Iran
+352,white,red,violet, What color will represent the rising share price in the United States?,0,stock price,United States
+353,rare,odd,common, How many household servants are there in India?,0,servant,India
+354,baseball,athletics,volleyball, What is the most popular sport in the US?,2,sports,United States
+355,sun,machines,bathroom, What do Iranians dry their clothes in?,0,drying clothes,Iran
+356,morning,noon,evening, When do the Chinese take a shower?,2,shower time,China
+357,rare,odd,common, How often are brooms used to clean the floor in Iran?,0,broom usage,Iran
+358,athletics,baseball,basketball, What is India's most popular sport?,0,sports,India
+359,fork,chopsticks,hand, What do Kenyans usually eat food with?,2,food and drink,Kenya
+360,spoon,hand,chopsticks, What do the Chinese usually eat?,0,food and drink,China
+361,badminton,basketball,athletics, What is the most popular sport in the United States?,1,sports,United States
+362,after,before,above, What is the year after the month in China?,0,date format,China
+363,Fahrenheit,Celsius,Rankine, What is the unit used in India to measure temperature?,0,measurement unit,India
+364,orange,white,black, What color will represent the rising share price in India?,1,stock price,India
+365,violet,white,blue, What color is the wedding dress in traditional Iranian weddings?,1,wedding,Iran
+366,football,cricket,soccer, What is the most popular sport in the United States?,0,sports,United States
+367,badminton,football,athletics, What is the most popular sport in the United States?,0,sports,United States
+368,basketball,athletics,volleyball, What is India's most popular sport?,0,sports,India
+369,blue,green,orange, What color will represent the falling share price in India?,1,stock price,India
+370,yellow,orange,red, What color is the rising share price represented by in India?,2,stock price,India
+371,Fahrenheit,Rankine,Celsius, What is the US's temperature unit?,0,measurement unit,United States
+372,baseball,soccer,tabletennis, What is the most popular sport in the United States?,1,sports,United States
+373,rare,common,odd, Is sharing food common in China?,1,food and drink,China
+374,millimeter,inch,kilometer, What is the unit of measurement for height in China?,1,measurement unit,China
+375,orange,white,blue, What color will represent the dropping stock price in the United States?,1,stock price,United States
+376,odd,common,rare, Is it common for people in the US to use brooms to clean their floors?,2,broom usage,United States
+377,odd,common,rare, Is sharing food common in Iran?,1,food and drink,Iran
+378,knife,spoon,chopsticks, What do Kenyans usually eat?,1,food and drink,Kenya
+379,baseball,football,soccer, What is the most popular sport in China?,1,sports,China
+380,cricket,volleyball,football, What is the most popular sport in China?,1,sports,China
+381,Rankine,Celsius,Fahrenheit, What is the Indian unit of measurement for temperature?,1,measurement unit,India
+382,basketball,football,volleyball, What is the most popular sport in Iran?,1,sports,Iran
+383,rice,noodles,bread, What is the staple food in the United States?,1,food and drink,United States
+384,meter,inch,feet, What is the unit of height in Kenya?,1,measurement unit,Kenya
+385,fork,chopsticks,knife, What do Iranians usually eat for their food?,1,food and drink,Iran
+386,bicycle,plane,metro, What was the most popular means of transportation in Iran 30 years ago?,0,transportation,Iran
+387,back,front,left, Where is the driver's seat located in the United States?,2,driver seat,United States
+388,more,less,none, How long does a wedding in Iran last?,0,wedding,Iran
+389,black,red,white, What color will represent the falling share price in Kenya?,1,stock price,Kenya
+390,blue,black,violet, What color will the stock price in Iran be represented by?,1,stock price,Iran
+391,yellow,red,black, What color is the dressing of a funeral in the United States?,1,funeral,United States
+392,temperate,polar,dry, What type of zone does most of Kenya lie in?,0,climate,Kenya
+393,bus,train,bicycle, What was the most popular means of transport in Kenya 30 years ago?,0,transportation,Kenya
+394,below,above,after, What happens after the month?,2,date format,Kenya
+395,noon,afternoon,morning, What time of day do Americans usually take a shower?,2,shower time,United States
+396,before,below,above," In Iran, year appears before what month?",0,date format,Iran
+397,black,white,red, What color is the falling share price represented by in China?,2,stock price,China
+398,noon,afternoon,evening, When do Iranians usually take a shower?,2,shower time,Iran
+399,violet,red,green, What color is the wedding dress in Kenya?,2,wedding,Kenya
+400,maize,noodles,rice, What is the staple food in China?,1,food and drink,China
+401,white,black,violet, What color is the wedding dress in most American weddings?,0,wedding,United States
+402,baseball,soccer,cricket, What is Kenya's most popular sport?,0,sports,Kenya
+403,rare,odd,common, Is it rare or rare for customers to tip after eating?,0,payment,India
+404,basketball,baseball,cricket, What is the most popular sport in the US?,2,sports,United States
+405,before,after,above," In India, year appears before what month?",0,date format,India
+406,before,after,above, What happens after the month?,1,date format,Iran
+407,spoon,knife,chopsticks, What do Kenyans normally eat?,2,food and drink,Kenya
+408,centimeter,kilometer,feet, What is the unit of height in the United States?,2,measurement unit,United States
+409,anywhere,middle,right, What do people usually keep when driving in the United States?,2,keep left/right,United States
+410,car,train,metro, What was the most popular mode of transportation in the US 30 years ago?,1,transportation,United States
+411,afternoon,noon,morning, When do Chinese people normally shower?,2,shower time,China
+412,pound,ounce,kilogram, What is the unit of weight in the United States?,0,measurement unit,United States
+413,odd,common,rare, Is sharing food rare or rare in Kenya?,2,food and drink,Kenya
+414,odd,common,rare, Is it common to see household servants in India?,1,servant,India
+415,white,red,green, What color will represent the falling share price in Iran?,2,stock price,Iran
+416,rare,common,odd, How often does Kenya have domestic help?,0,servant,Kenya
+417,yard,feet,meter, What is the unit of measurement for height in Iran?,2,measurement unit,Iran
+418,volleyball,athletics,cricket, What is India's most popular sport?,0,sports,India
+419,Fahrenheit,Rankine,Celsius, What is the unit of measurement for China's temperature?,2,measurement unit,China
+420,hand,fork,spoon, What do Chinese people usually eat food with?,1,food and drink,China
+421,common,rare,odd, How often do adults in India live with their parents?,1,family,India
+422,above,after,below, What is the year after the month in Kenya?,1,date format,Kenya
+423,before,below,above, What year does Iran use to indicate the month?,0,date format,Iran
+424,mile,inch,meter, What is the unit of measurement in India?,1,measurement unit,India
+425,right,left,middle, What side of the road do people in India stick to?,1,keep left/right,India
+426,violet,white,black, What color is the dressing of a funeral in the United States?,2,funeral,United States
+427,spoon,hand,chopsticks, What do Indians usually eat?,0,food and drink,India
+428,bread,meat,fruit, What is the main food in the United States?,0,food and drink,United States
+429,football,baseball,athletics, What is the most popular sport in China?,1,sports,China
+430,green,white,black, What color is the wedding dress in Kenya?,2,wedding,Kenya
+431,black,violet,yellow, What color is the Chinese stock market?,0,stock price,China
+432,basketball,soccer,volleyball, What is Iran's most popular sport?,0,sports,Iran
+433,odd,common,rare, Is it rare or rare for adults to live with their parents in the United States?,2,family,United States
+434,odd,rare,common, Is it rare or rare for Indians to pay tips after a meal?,1,payment,India
+435,soccer,badminton,baseball, What is the most popular sport in China?,2,sports,China
+436,none,more,less, How long do Chinese weddings last?,2,wedding,China
+437,before,after,above, What month in Iran appears in date format?,0,date format,Iran
+438,anywhere,middle,left, What side of the road do people in China usually stick to?,2,keep left/right,China
+439,meat,rice,maize, What is the staple food in China?,2,food and drink,China
+440,black,orange,green, What color is the falling share price represented by in China?,2,stock price,China
+441,Fahrenheit,Rankine,Celsius, What is the temperature unit in Kenya?,0,measurement unit,Kenya
+442,odd,rare,common, Is it common for adults to stay with their parents in the US?,2,family,United States
+443,baseball,football,athletics, What is the most popular sport in the US?,0,sports,United States
+444,rice,noodles,fruit, What is the staple food in Kenya?,1,food and drink,Kenya
+445,yellow,orange,black, What color is the dressing of traditional Indian funerals?,2,funeral,India
+446,violet,green,blue, What color is Kenya's share price represented by?,1,stock price,Kenya
+447,none,more,less, How long does a wedding typically last in the United States?,2,wedding,United States
+448,black,white,orange, What color is the share price represented by in Kenya?,0,stock price,Kenya
+449,odd,common,rare, Is drinking hot water common or common in China?,1,food and drink,China
+450,volleyball,athletics,baseball, What is the most popular sport in Kenya?,1,sports,Kenya
+451,meat,noodles,bread, What is the staple food in China?,1,food and drink,China
+452,football,cricket,volleyball, What is the most popular sport in the US?,1,sports,United States
+453,common,rare,odd, Is it common for adults to live with their parents in India?,0,family,India
+454,hand,chopsticks,knife, What do Iranians usually eat food with?,0,food and drink,Iran
+455,baseball,cricket,basketball, What is the most popular sport in Kenya?,1,sports,Kenya
+456,odd,rare,common, Is drinking hot water common in India?,2,food and drink,India
+457,cricket,football,baseball, What is the most popular sport in the United States?,0,sports,United States
+458,knife,chopsticks,spoon, What do Americans normally eat?,1,food and drink,United States
+459,back,right,left," In Kenya, the driver seat is on which side?",1,driver seat,Kenya
+460,yellow,violet,white, What color will represent the rising stock price in China?,2,stock price,China
+461,fork,hand,chopsticks, What do Chinese people usually eat?,2,food and drink,China
+462,evening,afternoon,noon, When do Americans normally shower?,0,shower time,United States
+463,red,yellow,black, What color is the wedding dress in Kenya?,2,wedding,Kenya
+464,bicycle,ship,bus, What was the most popular means of transport in Iran 30 years ago?,0,transportation,Iran
+465,left,right,back, Where is the driver's seat located in China?,0,driver seat,China
+466,knife,chopsticks,fork, What do Indians usually use to eat food?,0,food and drink,India
+467,pound,kilogram,ounce, What is the unit of measurement in Kenya?,1,measurement unit,Kenya
+468,green,violet,black, What color is the share price represented by in Kenya?,2,stock price,Kenya
+469,kilometer,centimeter,meter, What is the unit of height in India?,2,measurement unit,India
+470,badminton,soccer,football, What is the most popular sport in India?,1,sports,India
+471,volleyball,athletics,tabletennis, What is the most popular sport in the United States?,2,sports,United States
+472,common,rare,odd, Is it rare or rare to see people drink hot water in Iran?,1,food and drink,Iran
+473,meter,kilometer,yard, What is the unit of measurement for height in the United States?,0,measurement unit,United States
+474,common,rare,odd, Is it common for Iranians to pay a tip after eating?,0,payment,Iran
+475,orange,yellow,white, What color is the wedding dress in traditional Chinese weddings?,2,wedding,China
+476,green,yellow,black, What color is Iran's share price represented by?,0,stock price,Iran
+477,green,black,white, What color will represent the rising share price in Iran?,1,stock price,Iran
+478,fruit,noodles,bread, What is the staple food in India?,1,food and drink,India
+479,football,athletics,baseball, What is the most popular sport in Iran?,2,sports,Iran
+480,bathroom,machines,sun, What do Kenyans dry their clothes in?,2,drying clothes,Kenya
+481,common,rare,odd, Is it common or common for people in the US to clean the floor with brooms?,0,broom usage,United States
+482,maize,vegetable,bread, What is Iran's staple food?,2,food and drink,Iran
+483,machines,bathroom,sun, Where do Americans normally dry their wet cloths?,0,drying clothes,United States
+484,green,red,yellow, What color is the clothing of Chinese funerals usually?,1,funeral,China
+485,hand,knife,fork, What do people in Iran usually eat food with?,1,food and drink,Iran
+486,left,middle,anywhere, What side of the road do people in China stick to?,0,keep left/right,China
+487,blue,orange,white, What color is the wedding dress in Kenya?,2,wedding,Kenya
+488,common,rare,odd, How often do household servants come to the United States?,1,servant,United States
+489,rare,common,odd, How often do Kenyans clean their floors with brooms?,0,broom usage,Kenya
+490,white,green,violet, What color is Kenya's share price?,0,stock price,Kenya
+491,kilogram,pound,miligram, What is the unit of weight in India?,0,measurement unit,India
+492,potato,rice,vegetable, What is the main food in Kenya?,1,food and drink,Kenya
+493,odd,common,rare, How often do people in India clean their floors with brooms?,2,broom usage,India
+494,basketball,football,soccer, What is the most popular sport in the US?,2,sports,United States
+495,common,odd,rare, Is it common or common for customers to pay tips after a meal?,0,payment,China
+496,tabletennis,basketball,cricket, What is the most popular sport in Kenya?,0,sports,Kenya
+497,fruit,potato,rice, What is the main food in the United States?,2,food and drink,United States
+498,common,odd,rare, Is it rare or rare for adults to live with their parents in China?,2,family,China
+499,anywhere,right,middle, What side of Iran do Iranians usually drive?,1,keep left/right,Iran
+500,red,black,white, What color is the share price in Kenya?,0,stock price,Kenya
+501,machines,sun,bathroom, Where do Americans usually dry their clothes?,0,drying clothes,United States
+502,common,rare,odd, Is sharing food rare or rare in China?,1,food and drink,China
+503,bathroom,machines,sun, Where do Kenyans dry their clothes?,1,drying clothes,Kenya
+504,hand,spoon,knife, What do Iranians usually eat?,1,food and drink,Iran
+505,ship,bus,metro, What was the most popular means of transport in Kenya 30 years ago?,1,transportation,Kenya
+506,centimeter,mile,yard, What is the unit of height in India?,0,measurement unit,India
+507,dry,temperate,continental, What type of climate is Kenya?,1,climate,Kenya
+508,green,white,red, What color is the clothing at funerals?,0,funeral,United States
+509,noodles,bread,rice, What is India's staple food?,2,food and drink,India
+510,machines,bathroom,sun, Where do Kenyans usually dry their clothes?,0,drying clothes,Kenya
+511,violet,red,green, What color is the clothing of Kenyans usually?,1,funeral,Kenya
+512,chopsticks,knife,fork, What do Kenyans usually eat food with?,2,food and drink,Kenya
+513,green,black,white, What color is the dressing of a traditional Chinese funeral?,2,funeral,China
+514,fruit,rice,vegetable, What is the staple food in China?,2,food and drink,China
+515,feet,inch,yard, What is the unit of measurement for height in India?,1,measurement unit,India
+516,metro,train,boat, What was the most popular means of transportation in China 30 years ago?,1,transportation,China
+517,inch,kilometer,feet, What is the unit of height in India?,2,measurement unit,India
+518,middle,right,anywhere," In India, what side of the road do people usually drive?",1,keep left/right,India
+519,odd,rare,common, How often do people in China clean their floors with brooms?,1,broom usage,China
+520,middle,right,left, What side of the road do people usually stick to when driving in China?,2,keep left/right,China
+521,common,odd,rare, Is tipping common or not?,0,payment,United States
+522,white,orange,green, What color will represent the falling share price in Kenya?,2,stock price,Kenya
+523,athletics,tabletennis,football, What is Iran's most popular sport?,2,sports,Iran
+524,above,after,below, What is the year after the month?,1,date format,Kenya
+525,tabletennis,volleyball,soccer, What is the most popular sport in the United States?,1,sports,United States
+526,bathroom,machines,sun, Where do Indians dry their clothes?,1,drying clothes,India
+527,evening,afternoon,morning, When do Americans usually take a shower?,2,shower time,United States
+528,meat,noodles,rice, What is Kenya's staple food?,1,food and drink,Kenya
+529,below,after,before," In China, year appears before what month?",2,date format,China
+530,football,cricket,basketball, What is the most popular sport in the United States?,2,sports,United States
+531,right,middle,anywhere, What side of the road do people usually drive on?,0,keep left/right,China
+532,hand,knife,spoon, What do Indians usually eat food with?,0,food and drink,India
+533,kilogram,gram,pound, What is the unit of measurement for weight in the United States?,0,measurement unit,United States
+534,meter,inch,mile, What is the unit of height in China?,1,measurement unit,China
+535,football,volleyball,basketball, What is Kenya's most popular sport?,2,sports,Kenya
+536,noodles,rice,maize, What is the staple food in India?,0,food and drink,India
+537,odd,rare,common, Is it common for adults to live with their parents in Kenya?,2,family,Kenya
+538,maize,rice,bread, What is the staple food in Kenya?,2,food and drink,Kenya
+539,noodles,potato,vegetable, What is the main staple food in India?,2,food and drink,India
+540,volleyball,basketball,soccer, What is the most popular sport in Iran?,2,sports,Iran
+541,potato,bread,maize, What is the main staple food in India?,2,food and drink,India
+542,violet,white,black, What color is the dressing of a traditional Persian funeral?,2,funeral,Iran
+543,common,odd,rare, How often does Iran have domestic help?,2,servant,Iran
+544,common,rare,odd, Is domestic help common in Kenya?,0,servant,Kenya
+545,morning,noon,evening, When do Indians usually take a shower?,2,shower time,India
+546,black,orange,red, What color will represent the falling share price in India?,2,stock price,India
+547,ship,car,bus, What was the most popular means of transportation in Kenya 30 years ago?,2,transportation,Kenya
+548,football,baseball,badminton, What is the most popular sport in China?,1,sports,China
+549,athletics,volleyball,soccer, What is Iran's most popular sport?,0,sports,Iran
+550,Celsius,Fahrenheit,Rankine, What is the temperature unit in China?,0,measurement unit,China
+551,left,back,right," In the United States, where is the driver's seat located?",2,driver seat,United States
+552,basketball,tabletennis,soccer, What is the most popular sport in Kenya?,2,sports,Kenya
+553,ounce,pound,kilogram, What is the unit of weight in India?,1,measurement unit,India
+554,morning,noon,evening, What time of day do Kenyans usually take a shower?,0,shower time,Kenya
+555,right,middle,anywhere, What do people usually keep when driving in China?,0,keep left/right,China
+556,car,plane,boat, What was the most popular mode of transportation in China 30 years ago?,0,transportation,China
+557,kilogram,miligram,gram, What is Iran's unit of weight?,0,measurement unit,Iran
+558,above,before,after, What happens after the month?,2,date format,China
+559,odd,rare,common, Is it rare or rare to see people drink hot water in China?,1,food and drink,China
+560,odd,common,rare, Is domestic help common or common in the US?,1,servant,United States
+561,athletics,badminton,baseball, What is the most popular sport in China?,0,sports,China
+562,blue,red,green, What color is the clothing at traditional Chinese funerals?,1,funeral,China
+563,hand,spoon,chopsticks, What do the Chinese usually eat?,1,food and drink,China
+564,knife,chopsticks,spoon, What do the Chinese normally eat?,1,food and drink,China
+565,after,before,above, When does month appear in Chinese date format?,1,date format,China
+566,millimeter,inch,yard, What is the unit of measurement in the United States?,1,measurement unit,United States
+567,pound,kilogram,miligram, What is the unit of measurement of weight in China?,1,measurement unit,China
+568,athletics,football,basketball, What is the most popular sport in the US?,1,sports,United States
+569,white,violet,orange, What color will represent the dropping stock price in India?,0,stock price,India
+570,gram,kilogram,pound, What is the unit of weight in Kenya?,1,measurement unit,Kenya
+571,orange,white,green, What color is the clothing of Chinese funerals usually?,1,funeral,China
+572,machines,bathroom,sun, What do the American people dry their clothes in?,2,drying clothes,United States
+573,baseball,soccer,basketball, What is the most popular sport in the United States?,1,sports,United States
+574,rice,potato,vegetable, What is Iran's staple food?,0,food and drink,Iran
+575,before,after,below," In the United States, year appears before what month?",0,date format,United States
+576,violet,black,green, What color is the wedding dress in traditional American weddings?,1,wedding,United States
+577,train,plane,ship, What was the most popular means of transport in the US 30 years ago?,0,transportation,United States
+578,before,below,after, What month appears in Chinese calendars?,2,date format,China
+579,kilogram,pound,miligram, What is the unit of measurement in China?,1,measurement unit,China
+580,yard,feet,centimeter, What is the unit of measurement for height in China?,2,measurement unit,China
+581,rice,vegetable,maize, What is Iran's staple food?,1,food and drink,Iran
+582,bathroom,machines,sun, Where do Kenyans normally dry their wet cloths?,1,drying clothes,Kenya
+583,before,below,above, What month appears in the United States in date format?,0,date format,United States
+584,violet,yellow,white, What color is the wedding dress in traditional Iranian weddings?,2,wedding,Iran
+585,odd,rare,common, How many household servants are there in Kenya?,1,servant,Kenya
+586,blue,black,green, What color is the wedding dress in traditional Chinese weddings?,2,wedding,China
+587,white,blue,red, What color is the clothing at traditional Kenyan funerals?,2,funeral,Kenya
+588,rare,odd,common, How common are household servants in India?,2,servant,India
+589,feet,meter,centimeter, What is the unit of measurement for height in India?,1,measurement unit,India
+590,blue,black,red, What color is the clothing of Chinese funerals usually?,1,funeral,China
+591,badminton,tabletennis,basketball, What is the most popular sport in the United States?,0,sports,United States
+592,metro,train,car, What was the most popular means of transport in Kenya 30 years ago?,2,transportation,Kenya
+593,temperate,tropical,continental, What type of zones does most of Kenya live in?,1,climate,Kenya
+594,odd,common,rare, Is it rare or rare for customers to tip after eating?,2,payment,China
+595,continental,tropical,temperate, What type of zone is most of Kenya?,2,climate,Kenya
+596,miligram,pound,gram, What is the unit of weight in the United States?,1,measurement unit,United States
+597,red,black,blue, What color is the clothing of a funeral usually?,0,funeral,United States
+598,fruit,rice,vegetable, What is Iran's main food?,2,food and drink,Iran
+599,morning,evening,afternoon, When do Chinese people normally shower?,1,shower time,China
+600,odd,common,rare, How common are domestic servants in Iran?,2,servant,Iran
+601,boat,car,ship, What was the most popular means of transportation in India 30 years ago?,1,transportation,India
+602,before,below,above, What month does Kenya use?,0,date format,Kenya
+603,blue,black,white, What color is the Chinese share price represented by?,2,stock price,China
+604,common,rare,odd, Is it common to see household servants in China?,0,servant,China
+605,green,red,yellow, What color is the bridal dress in traditional Chinese weddings?,1,wedding,China
+606,chopsticks,knife,fork, What do Americans usually use to eat food?,1,food and drink,United States
+607,mile,meter,centimeter, What is the unit of measurement for height in India?,2,measurement unit,India
+608,train,plane,metro, What was the most popular means of transport in China 30 years ago?,0,transportation,China
+609,rare,common,odd, Is it common or common for people to use a broom to clean the floor in the United States?,1,broom usage,United States
+610,less,none,more, How long do Iranian weddings last?,2,wedding,Iran
+611,after,above,before," In the United States, month appears before year in the date format?",2,date format,United States
+612,cricket,football,baseball, What is Kenya's most popular sport?,1,sports,Kenya
+613,rare,common,odd, Is sharing food common in India?,1,food and drink,India
+614,football,badminton,volleyball, What is the most popular sport in China?,2,sports,China
+615,meat,vegetable,bread, What is the staple food in Kenya?,1,food and drink,Kenya
+616,black,orange,yellow, What color will represent the rising share price in Kenya?,0,stock price,Kenya
+617,baseball,basketball,athletics, What is the most popular sport in Kenya?,0,sports,Kenya
+618,tabletennis,soccer,cricket, What is Iran's most popular sport?,0,sports,Iran
+619,less,none,more, How long does a wedding in Kenya last?,2,wedding,Kenya
+620,baseball,tabletennis,soccer, What is the most popular sport in Kenya?,1,sports,Kenya
+621,car,ship,metro, What was the most popular means of transport in India 30 years ago?,0,transportation,India
+622,fork,spoon,knife, What do Iranians usually use to eat food?,2,food and drink,Iran
+623,odd,rare,common, Is it common or uncommon for customers to pay tips after a meal?,2,payment,Kenya
+624,common,rare,odd, Is drinking hot water common or common in the United States?,0,food and drink,United States
+625,red,green,orange, What color is the clothing of Iranian funerals?,0,funeral,Iran
+626,odd,common,rare, Is domestic help rare or rare in the US?,2,servant,United States
+627,odd,rare,common, How often do household servants work in the United States?,1,servant,United States
+628,after,below,before, What month does the year appear after in American date format?,0,date format,United States
+629,black,yellow,green, What color is the wedding dress in traditional Indian weddings?,0,wedding,India
+630,inch,meter,feet, What is the unit of measurement for height in Kenya?,0,measurement unit,Kenya
+631,afternoon,noon,morning, When do Chinese people usually take a shower?,2,shower time,China
+632,odd,common,rare, Is drinking hot water common in India?,1,food and drink,India
+633,orange,white,yellow, What color is the share price represented by in Kenya?,1,stock price,Kenya
+634,hand,spoon,fork, What do Kenyans usually eat food with?,2,food and drink,Kenya
+635,machines,bathroom,sun, Where do Chinese people usually dry their clothes?,2,drying clothes,China
+636,anywhere,left,right, What do people usually keep when driving in Iran?,2,keep left/right,Iran
+637,left,right,back," In India, the driver's seat is on which side?",1,driver seat,India
+638,spoon,knife,fork, What do Iranians usually eat?,0,food and drink,Iran
+639,white,orange,green, What color is the wedding dress in traditional Hindu weddings?,0,wedding,India
+640,maize,noodles,fruit, What is Iran's main staple food?,1,food and drink,Iran
+641,anywhere,left,right, What side of the road do people usually stick to when driving in India?,1,keep left/right,India
+642,bicycle,bus,plane, What was the most popular means of transportation in Kenya 30 years ago?,0,transportation,Kenya
+643,red,blue,orange, What color will represent the rising share price in India?,0,stock price,India
+644,common,odd,rare, Is sharing food common in Kenya?,0,food and drink,Kenya
+645,more,less,none, How long does a wedding in Kenya last?,0,wedding,Kenya
+646,violet,white,red, What color will represent the rising share price in China?,1,stock price,China
+647,fork,hand,knife, What do Indians usually eat food with?,0,food and drink,India
+648,boat,train,bus, What was the most popular means of transport in Kenya 30 years ago?,1,transportation,Kenya
+649,tabletennis,badminton,basketball, What is the most popular sport in the United States?,1,sports,United States
+650,back,right,left," In India, the driver's seat is on which side?",1,driver seat,India
+651,common,rare,odd, Is it common or common for people in Iran to clean the floor with brooms?,0,broom usage,Iran
+652,machines,bathroom,sun, Where do the Chinese dry their clothes?,2,drying clothes,China
+653,white,orange,violet, What color is the wedding dress in traditional Indian weddings?,0,wedding,India
+654,dry,continental,tropical, What type of areas is most of China?,2,climate,China
+655,bread,fruit,maize, What is the main food in India?,0,food and drink,India
+656,chopsticks,hand,spoon, What do Indians usually eat?,2,food and drink,India
+657,odd,common,rare, Are domestic servants rare or rare in the US?,2,servant,United States
+658,feet,inch,mile, What is the unit of measurement in China?,0,measurement unit,China
+659,football,basketball,cricket, What is India's most popular sport?,0,sports,India
+660,black,green,blue, What color is Kenya's share price represented by?,1,stock price,Kenya
+661,vegetable,maize,noodles, What is the main staple food in the United States?,0,food and drink,United States
+662,kilogram,gram,pound, What is the unit of measurement for weight in Kenya?,0,measurement unit,Kenya
+663,common,rare,odd, Is sharing food rare or rare in the United States?,1,food and drink,United States
+664,sun,machines,bathroom, What do Kenyans usually dry their clothes in?,0,drying clothes,Kenya
+665,front,right,left, On what side of Kenya is the driver's seat located?,2,driver seat,Kenya
+666,bread,noodles,maize, What is Iran's staple food?,0,food and drink,Iran
+667,rice,maize,potato, What is the staple food in India?,0,food and drink,India
+668,hand,knife,spoon, What do people in Kenya usually eat?,2,food and drink,Kenya
+669,red,white,orange, What color is the dressing of a traditional Kenyan funeral?,1,funeral,Kenya
+670,red,green,yellow, What color will represent the rising share price in the US?,1,stock price,United States
+671,baseball,badminton,cricket, What is the most popular sport in India?,2,sports,India
+672,black,orange,green, What color is the clothing at funerals?,2,funeral,United States
+673,car,plane,ship, What was the most popular means of transportation in China 30 years ago?,0,transportation,China
+674,odd,common,rare, Is drinking hot water common or uncommon in Iran?,1,food and drink,Iran
+675,train,car,plane, What was the most popular means of transport in the US 30 years ago?,0,transportation,United States
+676,kilogram,pound,miligram, What is the unit of weight in China?,0,measurement unit,China
+677,noodles,bread,fruit, What is the main food in Kenya?,0,food and drink,Kenya
+678,common,rare,odd, Is it rare or rare for customers to pay tips after eating in China?,1,payment,China
+679,plane,bus,car, What was the most popular means of transport in Iran 30 years ago?,1,transportation,Iran
+680,football,basketball,badminton, What is the most popular sport in Kenya?,1,sports,Kenya
+681,white,orange,violet, What color will represent the rising stock price in India?,0,stock price,India
+682,athletics,baseball,tabletennis, What is the most popular sport in India?,2,sports,India
+683,right,left,middle, What side of the road do people in China stick to?,0,keep left/right,China
+684,bread,maize,rice, What is the staple food in the United States?,1,food and drink,United States
+685,violet,red,blue, What color will represent the rising share price in China?,1,stock price,China
+686,middle,right,anywhere, What side of the road do people usually stick to when driving in the US?,1,keep left/right,United States
+687,common,rare,odd, Is sharing food rare or rare in China?,1,food and drink,China
+688,rare,odd,common, Is it common for adults to live with their parents in Kenya?,2,family,Kenya
+689,tropical,temperate,dry, What type of zones is India?,1,climate,India
+690,odd,rare,common, Is it common for Indians to pay a tip after eating?,2,payment,India
+691,red,violet,blue, What color is the wedding dress in traditional American weddings?,0,wedding,United States
+692,odd,common,rare, Is it common for adults to live with their parents in the United States?,1,family,United States
+693,black,orange,green, What color is the wedding dress in traditional American weddings?,2,wedding,United States
+694,soccer,badminton,cricket, What is the most popular sport in India?,2,sports,India
+695,noodles,rice,maize, What is the staple food in China?,2,food and drink,China
+696,below,before,after, What month in Kenya appears in date format?,2,date format,Kenya
+697,football,tabletennis,soccer, What is the most popular sport in Kenya?,2,sports,Kenya
+698,yellow,black,green, What color is the wedding dress usually?,2,wedding,India
+699,knife,fork,spoon, What do Iranians usually eat?,2,food and drink,Iran
+700,gram,ounce,kilogram, What is Iran's unit of weight?,2,measurement unit,Iran
+701,maize,noodles,bread, What is the main staple food in India?,1,food and drink,India
+702,green,black,blue, What color is Iran's share price represented by?,1,stock price,Iran
+703,Celsius,Fahrenheit,Rankine, What is the temperature unit in Kenya?,0,measurement unit,Kenya
+704,black,red,green, What color is the wedding dress in traditional Hindu weddings?,0,wedding,India
+705,violet,green,orange, What color is the falling share price represented by in the United States?,1,stock price,United States
+706,green,black,red, What color is the share price represented by in the United States?,1,stock price,United States
+707,odd,rare,common, Is sharing food common in India?,2,food and drink,India
+708,common,rare,odd, Is drinking hot water common in Kenya?,0,food and drink,Kenya
+709,red,blue,orange, What color is the clothing at funerals?,0,funeral,United States
+710,ounce,miligram,kilogram, What is the unit of measurement for weight in China?,2,measurement unit,China
+711,metro,train,plane, What was the most popular means of transport in China 30 years ago?,1,transportation,China
+712,vegetable,bread,potato, What is India's staple food?,1,food and drink,India
+713,athletics,basketball,cricket, What is the most popular sport in the US?,1,sports,United States
+714,none,more,less, How long does a wedding in Iran last?,1,wedding,Iran
+715,red,black,green, What color is the clothing of a funeral usually?,0,funeral,United States
+716,gram,pound,ounce, What is the unit of weight in India?,1,measurement unit,India
+717,none,less,more, How long does a Chinese wedding last?,1,wedding,China
+718,tabletennis,basketball,volleyball, What is the most popular sport in Kenya?,0,sports,Kenya
+719,continental,temperate,dry, What type of climate is Iran?,1,climate,Iran
+720,after,before,above, What is the month in Chinese date format?,0,date format,China
+721,potato,fruit,vegetable, What is the main food in Kenya?,2,food and drink,Kenya
+722,rare,common,odd, Is it common or common for people in China to clean the floor with brooms?,1,broom usage,China
+723,blue,green,black, What color is the clothing at traditional Indian funerals?,2,funeral,India
+724,red,white,black, What color is the falling share price represented by in Kenya?,2,stock price,Kenya
+725,red,black,orange, What color is the wedding dress in traditional Indian weddings?,1,wedding,India
+726,common,rare,odd, Is it common or common for people in Kenya to clean the floor with brooms?,0,broom usage,Kenya
+727,tabletennis,basketball,volleyball, What is the most popular sport in Iran?,2,sports,Iran
+728,boat,bicycle,car, What was the most popular means of transport in Iran 30 years ago?,2,transportation,Iran
+729,above,below,before, When does month appear in Kenyan date format?,2,date format,Kenya
+730,kilogram,miligram,gram, What is Iran's weight unit?,0,measurement unit,Iran
+731,odd,rare,common, Is it common or common for Iranians to pay a tip after a meal?,2,payment,Iran
+732,common,odd,rare, Is it rare or rare for people in Kenya to drink hot water?,2,food and drink,Kenya
+733,back,right,left," In the United States, the driver's seat of a car is located on which side?",1,driver seat,United States
+734,badminton,volleyball,tabletennis, What is the most popular sport in India?,0,sports,India
+735,common,odd,rare, Is tipping common or common in the United States?,0,payment,United States
+736,meat,vegetable,bread, What is the staple food in Kenya?,1,food and drink,Kenya
+737,green,violet,blue, What color is the bridal dress in traditional Iranian weddings?,0,wedding,Iran
+738,red,white,black, What color will represent the rising stock price in China?,2,stock price,China
+739,kilogram,pound,miligram, What is the unit of weight in the United States?,0,measurement unit,United States
+740,centimeter,inch,yard, What is the unit of height in the United States?,1,measurement unit,United States
+741,violet,white,blue, What color is the wedding dress in Kenya?,1,wedding,Kenya
+742,below,after,above, What happens after the month?,1,date format,India
+743,bathroom,machines,sun, What do Americans use to dry their wet cloths?,1,drying clothes,United States
+744,common,odd,rare, Is it rare or rare for adults to live with their parents in Kenya?,2,family,Kenya
+745,odd,common,rare, How often does China have domestic help?,2,servant,China
+746,afternoon,noon,evening, When do Iranians usually take a shower?,2,shower time,Iran
+747,spoon,fork,knife, What do Indians usually eat?,0,food and drink,India
+748,fork,hand,spoon, What do Americans usually eat?,2,food and drink,United States
+749,evening,afternoon,morning, In what time of the day do Indians usually take a shower?,0,shower time,India
+750,right,middle,left, What side of the road do Iranians stick to?,2,keep left/right,Iran
+751,soccer,basketball,tabletennis, What is the most popular sport in India?,0,sports,India
+752,tabletennis,basketball,soccer, What is the most popular Indian sport?,0,sports,India
+753,red,green,black, What color is the wedding dress in Iran?,1,wedding,Iran
+754,volleyball,athletics,badminton, What is the most popular sport in Iran?,1,sports,Iran
+755,rare,odd,common, Is it common for adults to live with their parents in India?,2,family,India
+756,meter,feet,yard, What is the unit of measurement for height in Kenya?,0,measurement unit,Kenya
+757,noodles,meat,rice, What is the main staple food in China?,2,food and drink,China
+758,hand,spoon,chopsticks, What do Iranians usually eat?,1,food and drink,Iran
+759,odd,common,rare, Is it common or common practice in India to use a broom to clean the floor?,1,broom usage,India
+760,rare,odd,common, Is tipping common or not?,2,payment,Iran
+761,afternoon,noon,morning, What time of day do Indians normally shower?,2,shower time,India
+762,metro,bicycle,car, What was the most popular means of transport in China 30 years ago?,1,transportation,China
+763,common,rare,odd, How often does domestic help occur in the United States?,1,servant,United States
+764,badminton,volleyball,baseball, What is the most popular sport in Kenya?,1,sports,Kenya
+765,tabletennis,athletics,volleyball, What is the most popular sport in Kenya?,1,sports,Kenya
+766,green,red,violet, What color is the wedding dress in traditional American weddings?,0,wedding,United States
+767,black,orange,yellow, What color will represent the dropping stock price in India?,0,stock price,India
+768,odd,rare,common, Is sharing food common in China?,2,food and drink,China
+769,rice,vegetable,meat, What is the main staple food in Kenya?,1,food and drink,Kenya
+770,volleyball,basketball,badminton, What is the most popular sport in Kenya?,2,sports,Kenya
+771,mile,yard,meter, What is the unit of height in Iran?,2,measurement unit,Iran
+772,machines,sun,bathroom, What do Americans dry their clothes in?,1,drying clothes,United States
+773,green,orange,red, What color is the wedding dress in Kenya?,2,wedding,Kenya
+774,odd,rare,common, Is it rare or rare for people in India to drink hot water?,1,food and drink,India
+775,bicycle,boat,train, What was the most popular means of transportation in the US 30 years ago?,2,transportation,United States
+776,fruit,bread,maize, What is Iran's main staple food?,1,food and drink,Iran
+777,cricket,badminton,football, What is the most popular sport in the United States?,1,sports,United States
+778,cricket,tabletennis,basketball, What is the most popular sport in China?,1,sports,China
+779,Fahrenheit,Celsius,Rankine, What is the temperature unit in the United States?,1,measurement unit,United States
+780,blue,yellow,green, What color is the clothing at traditional Iranian funerals?,2,funeral,Iran
+781,feet,inch,meter, What is the unit of height in India?,1,measurement unit,India
+782,noon,evening,morning, What time of day do Kenyans usually take a shower?,2,shower time,Kenya
+783,yellow,black,green, What color is the rising share price represented by in China?,1,stock price,China
+784,after,above,before, What month in Iran appears in date format?,2,date format,Iran
+785,tropical,continental,temperate, What type of climate is most of the US?,2,climate,United States
+786,fork,chopsticks,knife, What do Kenyans usually eat?,1,food and drink,Kenya
+787,white,violet,orange, What color will represent the stock price in Kenya?,0,stock price,Kenya
+788,baseball,cricket,tabletennis, What is the most popular sport in Iran?,2,sports,Iran
+789,tabletennis,football,volleyball, What is the most popular sport in India?,2,sports,India
+790,bus,car,bicycle, What was the most popular means of transportation in Kenya 30 years ago?,2,transportation,Kenya
+791,below,before,after, What month does Kenyan date format show the year after?,2,date format,Kenya
+792,black,green,red, What color will represent the rising share price in India?,1,stock price,India
+793,common,rare,odd, Is it common for Indians to pay tips after a meal?,0,payment,India
+794,tropical,dry,polar, What type of areas is most of Kenya?,0,climate,Kenya
+795,yellow,red,blue, What color is the bridal dress in Iran?,1,wedding,Iran
+796,noodles,potato,meat, What is the main food in the United States?,0,food and drink,United States
+797,back,left,right, Where is the driver's seat located in China?,2,driver seat,China
+798,cricket,soccer,athletics, What is the most popular sport in China?,1,sports,China
+799,tropical,continental,temperate, What type of climate is most of Kenya?,2,climate,Kenya
+800,after,below,above, What month appears in date format in China?,0,date format,China
+801,badminton,volleyball,basketball, What is the most popular sport in China?,2,sports,China
+802,car,ship,bicycle, What was the most popular means of transportation in Iran 30 years ago?,0,transportation,Iran
+803,chopsticks,knife,fork, What do Chinese eat food with?,2,food and drink,China
+804,bread,rice,vegetable, What is the main food in India?,2,food and drink,India
+805,black,violet,red, What color is the clothing of a funeral usually?,0,funeral,United States
+806,red,black,blue, What color will represent the stock price in Kenya?,0,stock price,Kenya
+807,black,green,blue, What color is the wedding dress in Iran?,0,wedding,Iran
+808,basketball,athletics,tabletennis, What is the most popular sport in Iran?,2,sports,Iran
+809,below,before,above, What month in the US does the year appear in?,1,date format,United States
+810,orange,red,white, What color is the rising share price represented by in China?,1,stock price,China
+811,black,blue,yellow, What color is used to represent the declining share price in India?,0,stock price,India
+812,below,above,before, What year does the Chinese calendar appear in?,2,date format,China
+813,tropical,polar,continental, What type of zone is most of the US?,0,climate,United States
+814,more,none,less, How long does a wedding in India last?,0,wedding,India
+815,soccer,cricket,baseball, What is the most popular sport in India?,2,sports,India
+816,right,left,front," In India, the driver seat is on which side?",1,driver seat,India
+817,ship,bus,train, What was the most popular means of transportation in India 30 years ago?,2,transportation,India
+818,violet,orange,red, What color is the rising share price represented by in Kenya?,2,stock price,Kenya
+819,sun,machines,bathroom, Where do Iranians usually dry their clothes?,1,drying clothes,Iran
+820,middle,anywhere,left, What side of the road do people in the US stick to?,2,keep left/right,United States
+821,rare,odd,common, Is it rare or rare for adults to live with their parents in India?,0,family,India
+822,white,blue,violet, What color is Iran's share price represented by?,0,stock price,Iran
+823,polar,tropical,temperate, What type of areas are most of India?,2,climate,India
+824,temperate,tropical,polar, What type of zone does most of China lie in?,1,climate,China
+825,badminton,cricket,tabletennis, What is the most popular sport in the US?,2,sports,United States
+826,bicycle,train,ship, What was the most popular mode of transportation in Kenya 30 years ago?,1,transportation,Kenya
+827,white,red,yellow, What color is the share price represented by in Kenya?,1,stock price,Kenya
+828,more,less,none, How long does a wedding in India last?,0,wedding,India
+829,rare,common,odd, Is it common to see household servants in Iran?,1,servant,Iran
+830,dry,temperate,continental, What type of zone is Iran?,1,climate,Iran
+831,blue,orange,green, What color is the bridal dress in traditional Chinese weddings?,2,wedding,China
+832,after,above,before," In the United States, year appears after what month?",0,date format,United States
+833,right,back,front," In India, where is the driver's seat located?",0,driver seat,India
+834,below,after,above," In India, month appears after year in the date format?",1,date format,India
+835,pound,ounce,miligram, What is the unit of measurement of weight in the United States?,0,measurement unit,United States
+836,boat,metro,bicycle, What was the most popular mode of transportation in the US 30 years ago?,2,transportation,United States
+837,cricket,badminton,tabletennis, What is the most popular sport in Kenya?,0,sports,Kenya
+838,knife,chopsticks,hand, What do Kenyans usually eat?,1,food and drink,Kenya
+839,polar,dry,temperate, What type of zone is most of China?,2,climate,China
+840,maize,noodles,fruit, What is Iran's staple food?,1,food and drink,Iran
+841,soccer,cricket,tabletennis, What is India's most popular sport?,1,sports,India
+842,orange,black,yellow, What color will represent the rising share price in Iran?,1,stock price,Iran
+843,white,orange,blue, What color is the bridal dress in traditional American weddings?,0,wedding,United States
+844,violet,white,green, What color is the clothing at traditional Iranian funerals?,1,funeral,Iran
+845,white,violet,yellow, What color will represent the rising share price in Kenya?,0,stock price,Kenya
+846,green,white,orange, What color will represent the dropping stock price in the United States?,0,stock price,United States
+847,train,plane,car, What was the most popular mode of transportation in the US 30 years ago?,2,transportation,United States
+848,bread,maize,rice, What is Iran's main food?,0,food and drink,Iran
+849,baseball,tabletennis,volleyball, What is the most popular sport in the US?,1,sports,United States
+850,temperate,tropical,continental, What type of zone does most of the US reside in?,1,climate,United States
+851,white,black,orange, What color is the Chinese stock market?,0,stock price,China
+852,orange,white,black, What color is the increasing share price represented by in India?,1,stock price,India
+853,evening,afternoon,morning, When do Chinese people usually shower?,0,shower time,China
+854,Celsius,Rankine,Fahrenheit, What is the temperature unit in Kenya?,0,measurement unit,Kenya
+855,noodles,fruit,maize, What is China's staple food?,2,food and drink,China
+856,white,red,green, What color is the rising share price represented by in Kenya?,2,stock price,Kenya
+857,chopsticks,knife,spoon, What do Americans usually eat?,0,food and drink,United States
+858,common,odd,rare, Is drinking hot water common in Kenya?,0,food and drink,Kenya
+859,odd,common,rare, Is tipping common or rare in the US?,2,payment,United States
+860,white,yellow,green, What color will represent the falling share price in Kenya?,0,stock price,Kenya
+861,rare,common,odd, Is sharing food rare or rare in Kenya?,0,food and drink,Kenya
+862,centimeter,meter,mile, What is the unit of measurement in Iran?,0,measurement unit,Iran
+863,below,after,before, When does Iranian date format show the year?,2,date format,Iran
+864,black,blue,green, What color is the dressing of Chinese funerals usually?,2,funeral,China
+865,temperate,polar,dry, What type of zone is Iran?,0,climate,Iran
+866,athletics,baseball,basketball, What is Kenya's most popular sport?,2,sports,Kenya
+867,odd,common,rare, How often do adults live with their parents in Iran?,2,family,Iran
+868,above,before,below, What year does the month appear in Kenyan date format?,1,date format,Kenya
+869,middle,right,anywhere, What do people usually keep when driving in India?,1,keep left/right,India
+870,mile,centimeter,meter, What is the unit of measurement for height in Kenya?,1,measurement unit,Kenya
+871,fork,hand,chopsticks, What do Americans usually eat food with?,1,food and drink,United States
+872,more,none,less, How long does a wedding in Iran last?,2,wedding,Iran
+873,right,middle,anywhere, What side of the road do people in Kenya stick to?,0,keep left/right,Kenya
+874,metro,bus,train, What was the most popular means of transportation in the US 30 years ago?,1,transportation,United States
+875,meter,centimeter,millimeter, What is the unit of height in the United States?,1,measurement unit,United States
+876,before,below,above, What year does the month appear in Chinese?,0,date format,China
+877,baseball,badminton,cricket, What is the most popular sport in China?,1,sports,China
+878,knife,chopsticks,spoon, What do Americans usually eat when eating?,2,food and drink,United States
+879,common,rare,odd, How often do adults live with their parents in China?,1,family,China
+880,front,left,back," In the United States, the driver seat is on which side?",1,driver seat,United States
+881,knife,fork,spoon, What do people in China usually eat food with?,1,food and drink,China
+882,white,red,yellow, What color will represent the rising stock price in the United States?,1,stock price,United States
+883,noon,afternoon,morning, When do the Chinese take a shower?,2,shower time,China
+884,yellow,white,green, What color is the clothing of Chinese funerals usually?,1,funeral,China
+885,tropical,temperate,polar, What type of zone is Iran?,0,climate,Iran
+886,above,after,before, What month appears in Iranian date format?,1,date format,Iran
+887,black,white,yellow, What color will represent the falling share price in India?,0,stock price,India
+888,fruit,bread,noodles, What is the staple food in the United States?,1,food and drink,United States
+889,bathroom,machines,sun, What do Kenyans normally dry their clothes in?,2,drying clothes,Kenya
+890,machines,sun,bathroom, Where do Chinese people dry their wet cloths?,0,drying clothes,China
+891,common,rare,odd, Is sharing food rare or rare in Kenya?,1,food and drink,Kenya
+892,black,yellow,orange, What color is the falling share price represented by in India?,0,stock price,India
+893,meter,yard,mile, What is the unit of height in India?,0,measurement unit,India
+894,odd,common,rare, Is domestic help common in India?,1,servant,India
+895,inch,centimeter,millimeter, What is the unit of height in Iran?,1,measurement unit,Iran
+896,vegetable,potato,noodles, What is the main staple food in China?,0,food and drink,China
+897,odd,rare,common, Is it rare or rare to see people drink hot water in Kenya?,1,food and drink,Kenya
+898,yellow,red,white, What color will represent the rising share price in the US?,2,stock price,United States
+899,blue,violet,green, What color will the stock price in India be represented by?,2,stock price,India
+900,before,above,after, What is the year before month in China?,0,date format,China
+901,metro,boat,bicycle, What was the most popular means of transport in Iran 30 years ago?,2,transportation,Iran
+902,red,black,yellow, What color is the wedding dress in Iran?,1,wedding,Iran
+903,left,anywhere,middle, What side of the road do people in Kenya stick to?,0,keep left/right,Kenya
+904,pound,kilogram,ounce, What is the unit of measurement in Iran?,0,measurement unit,Iran
+905,hand,chopsticks,knife, What do the Chinese usually eat food with?,0,food and drink,China
+906,volleyball,basketball,baseball, What is India's most popular sport?,0,sports,India
+907,white,orange,red, What color is the Chinese stock market?,2,stock price,China
+908,chopsticks,hand,knife, What do the Chinese usually eat?,0,food and drink,China
+909,common,rare,odd, Is it rare or rare to see people drink hot water in Kenya?,1,food and drink,Kenya
+910,right,front,left, On which side of the Chinese market is the driver's seat located?,2,driver seat,China
+911,yellow,green,violet, What color is the wedding dress in traditional Indian weddings?,1,wedding,India
+912,white,black,violet, What color is the clothing of Indian funerals usually?,1,funeral,India
+913,none,less,more, How long does a wedding in Kenya last?,1,wedding,Kenya
+914,tropical,temperate,polar, What type of zone does most of China lie in?,1,climate,China
+915,odd,common,rare, Is it common for people to clean the floor with brooms in the United States?,1,broom usage,United States
+916,rare,common,odd, Is sharing food common in Iran?,1,food and drink,Iran
+917,odd,common,rare, Is it common for adults to live with their parents in India?,1,family,India
+918,black,violet,white, What color is the wedding dress in traditional Chinese weddings?,0,wedding,China
+919,yellow,white,red, What color is the clothing at traditional Indian funerals?,1,funeral,India
+920,right,middle,left, What side of the road do people in India usually stick to?,2,keep left/right,India
+921,odd,common,rare, Is it common for adults to live with their parents in China?,1,family,China
+922,violet,green,orange, What color is the bridal dress in traditional Kenyan weddings?,1,wedding,Kenya
+923,ounce,pound,kilogram, What is the unit of measurement in Iran?,2,measurement unit,Iran
+924,knife,fork,chopsticks, What do the Iranians usually eat?,2,food and drink,Iran
+925,mile,meter,kilometer, What is the unit of height in Kenya?,1,measurement unit,Kenya
+926,green,violet,yellow, What color is the wedding dress in Iran?,0,wedding,Iran
+927,front,right,left," In China, the driver's seat is on which side?",1,driver seat,China
+928,soccer,badminton,cricket, What is Kenya's most popular sport?,2,sports,Kenya
+929,odd,rare,common, How often do people in Iran use a broom to clean their floors?,1,broom usage,Iran
+930,red,black,white, What color is the wedding dress in traditional American weddings?,2,wedding,United States
+931,black,white,yellow, What color is the bridal dress in traditional American weddings?,0,wedding,United States
+932,spoon,chopsticks,knife, What do Chinese eat most of their food with?,0,food and drink,China
+933,sun,bathroom,machines, What do Kenyans dry their clothes in?,0,drying clothes,Kenya
+934,athletics,tabletennis,badminton, What is Iran's most popular sport?,2,sports,Iran
+935,white,black,red, What color is the clothing at traditional Kenyan funerals?,1,funeral,Kenya
+936,centimeter,yard,kilometer, What is the unit of measurement for height in India?,0,measurement unit,India
+937,yellow,black,green, What color will represent the rising share price in the United States?,2,stock price,United States
+938,black,violet,green, What color is the wedding dress in traditional Chinese weddings?,0,wedding,China
+939,common,rare,odd, Is it rare or rare that customers pay tips after a meal?,1,payment,Kenya
+940,pound,gram,kilogram, What is the unit of measurement for weight in India?,2,measurement unit,India
+941,rare,common,odd, Is drinking hot water common in China?,1,food and drink,China
+942,bus,boat,bicycle, What was the most popular means of transportation in India 30 years ago?,2,transportation,India
+943,noodles,rice,maize, What is Iran's staple food?,2,food and drink,Iran
+944,boat,car,metro, What was the most popular means of transportation in China 30 years ago?,1,transportation,China
+945,car,ship,train, What was the most popular means of transport in India 30 years ago?,0,transportation,India
+946,evening,afternoon,morning, When do Iranians usually take a shower?,0,shower time,Iran
+947,common,rare,odd, Is domestic help common in China?,0,servant,China
+948,above,after,below," In India, year appears after what month?",1,date format,India
+949,odd,rare,common, Is it common to see household servants in Kenya?,2,servant,Kenya
+950,soccer,cricket,athletics, What is India's most popular sport?,0,sports,India
+951,red,yellow,white, What color is the bridal dress in Kenya?,0,wedding,Kenya
+952,right,left,anywhere, What side of the road do people in Kenya stick to?,1,keep left/right,Kenya
+953,bread,rice,noodles, What is the US's staple food?,1,food and drink,United States
+954,odd,common,rare, Is drinking hot water common or uncommon in the United States?,1,food and drink,United States
+955,left,right,anywhere, What side of the road do people in the US stick to?,1,keep left/right,United States
+956,maize,meat,noodles, What is the US's staple food?,2,food and drink,United States
+957,cricket,basketball,baseball, What is the most popular sport in the US?,1,sports,United States
+958,fruit,rice,potato, What is the main staple food in Kenya?,1,food and drink,Kenya
+959,common,rare,odd, Is it rare or rare for people in Iran to drink hot water?,1,food and drink,Iran
+960,feet,mile,centimeter, What is the unit of measurement in China?,2,measurement unit,China
+961,athletics,badminton,basketball, What is the most popular sport in Kenya?,1,sports,Kenya
+962,right,back,left," In China, the driver seat is on which side?",0,driver seat,China
+963,athletics,tabletennis,baseball, What is the most popular sport in China?,1,sports,China
+964,violet,blue,red, What color will represent the rising stock price in China?,2,stock price,China
+965,Rankine,Fahrenheit,Celsius, What is the unit of measurement for temperature in India?,2,measurement unit,India
+966,inch,mile,meter, What is the unit of measurement for height in the United States?,0,measurement unit,United States
+967,white,black,blue, What color is the clothing of Indian funerals usually?,0,funeral,India
+968,badminton,athletics,baseball, What is the most popular sport in India?,1,sports,India
+969,chopsticks,hand,spoon, What do Indians usually eat food with?,1,food and drink,India
+970,blue,orange,green, What color will represent the dropping stock price in China?,2,stock price,China
+971,soccer,basketball,badminton, What is the most popular sport in Kenya?,2,sports,Kenya
+972,noon,evening,morning, When do Iranians usually shower?,2,shower time,Iran
+973,meter,yard,mile, What is the unit of height in China?,0,measurement unit,China
+974,continental,dry,temperate, What type of zone is the majority of the US?,2,climate,United States
+975,fork,hand,knife, What do people in Kenya usually eat food with?,0,food and drink,Kenya
+976,badminton,soccer,baseball, What is the most popular sport in Iran?,0,sports,Iran
+977,train,bus,bicycle, What was the most popular means of transport in Iran 30 years ago?,1,transportation,Iran
+978,red,blue,orange, What color is the wedding dress in Iran?,0,wedding,Iran
+979,above,after,below, What month appears in American date format?,1,date format,United States
+980,tropical,temperate,continental, What type of zones does Iran have?,0,climate,Iran
+981,odd,rare,common, Is tipping common or not?,2,payment,Kenya
+982,kilometer,meter,mile, What is the unit of height in the United States?,1,measurement unit,United States
+983,blue,red,black, What color is used to represent the declining share price in Kenya?,1,stock price,Kenya
+984,fork,knife,hand, What do Chinese people usually eat food with?,1,food and drink,China
+985,left,right,anywhere, What side of the road do most people in the US drive?,0,keep left/right,United States
+986,evening,morning,noon, When do Kenyans usually shower?,0,shower time,Kenya
+987,green,yellow,red, What color is the dressing of funerals in Kenya?,2,funeral,Kenya
+988,knife,hand,chopsticks, What do people in Kenya usually eat?,2,food and drink,Kenya
+989,violet,orange,green, What color is the share price represented by in Kenya?,2,stock price,Kenya
+990,red,black,green, What color is the Chinese share price represented by?,2,stock price,China
+991,kilometer,inch,millimeter, What is the unit of measurement for height in India?,1,measurement unit,India
+992,white,violet,red, What color will be used to represent the dropping stock price in India?,2,stock price,India
+993,bicycle,car,metro, What was the most popular means of transportation in India 30 years ago?,0,transportation,India
+994,hand,chopsticks,fork, What do Americans usually eat food with?,0,food and drink,United States
+995,miligram,kilogram,pound, What is Iran's unit of measurement of weight?,2,measurement unit,Iran
+996,knife,fork,spoon, What do Iranians usually eat food with?,1,food and drink,Iran
+997,violet,green,white, What color is the clothing at traditional Kenyan funerals?,1,funeral,Kenya
+998,athletics,cricket,baseball, What is the most popular sport in Iran?,1,sports,Iran
+999,maize,potato,rice, What is India's staple food?,0,food and drink,India
+1000,car,metro,train, What was the most popular means of transportation in Kenya 30 years ago?,2,transportation,Kenya
+1001,black,green,yellow, What color will represent the falling share price in Iran?,0,stock price,Iran
+1002,after,before,above, What month does the year appear in indian format?,1,date format,India
+1003,back,left,front," In China, the driver's seat is located on which side?",1,driver seat,China
+1004,tropical,polar,continental, What type of areas is most of China?,0,climate,China
+1005,below,above,before," In China, month appears before year in the date format?",2,date format,China
+1006,common,rare,odd, Is it rare or rare to see people drink hot water in India?,1,food and drink,India
+1007,below,before,after," In India, month appears before year in the date format?",1,date format,India
+1008,chopsticks,fork,hand, What do people in China usually eat?,0,food and drink,China
+1009,after,before,below," In the United States, month appears after year in the date format?",0,date format,United States
+1010,bread,vegetable,noodles, What is the staple food in India?,0,food and drink,India
+1011,rare,odd,common, Is it rare or rare for people in Iran to clean the floor with brooms?,0,broom usage,Iran
+1012,feet,inch,meter, What is the unit of measurement in the United States?,2,measurement unit,United States
+1013,sun,machines,bathroom, What do Indians usually dry their clothes in?,0,drying clothes,India
+1014,anywhere,left,right, What side of the road do Iranians usually stick to?,1,keep left/right,Iran
+1015,odd,common,rare, Is it common for customers to pay tips after eating in China?,1,payment,China
+1016,above,below,before," In India, the year before the month appears in date format?",2,date format,India
+1017,common,odd,rare, What is it like to use brooms to clean the floor in Kenya?,0,broom usage,Kenya
+1018,pound,gram,kilogram, What is the unit of measurement for weight in the United States?,0,measurement unit,United States
+1019,bicycle,boat,train, What was the most popular mode of transportation in China 30 years ago?,2,transportation,China
+1020,athletics,football,baseball, What is the most popular sport in the US?,0,sports,United States
+1021,rare,odd,common, Is it rare or rare for adults to live with their parents in the US?,0,family,United States
+1022,rare,common,odd, Is sharing food rare or rare in India?,0,food and drink,India
+1023,white,black,red, What color will represent the falling share price in Iran?,0,stock price,Iran
+1024,common,rare,odd, Is it rare or rare for customers to pay tips after eating?,1,payment,India
+1025,rare,common,odd, Is domestic help common in Kenya?,1,servant,Kenya
+1026,kilogram,ounce,miligram, What is Iran's unit of measurement of weight?,0,measurement unit,Iran
+1027,volleyball,cricket,football, What is the most popular sport in India?,2,sports,India
+1028,red,green,black, What color is the wedding dress in traditional Indian weddings?,0,wedding,India
+1029,orange,yellow,green, What color is the dressing of Persian funerals?,2,funeral,Iran
+1030,knife,hand,fork, What do Indians usually eat food with?,2,food and drink,India
+1031,violet,green,white, What color is the increasing share price represented by in India?,1,stock price,India
+1032,common,rare,odd, Is it common for adults to live with their parents in the United States?,0,family,United States
+1033,yellow,white,red, What color will represent the dropping stock price in the United States?,2,stock price,United States
+1034,train,bicycle,car, What was the most popular means of transport in the US 30 years ago?,2,transportation,United States
+1035,black,green,blue, What color is the dressing of a traditional Chinese funeral?,0,funeral,China
+1036,odd,rare,common, Is it common or common for people to clean the floor with brooms?,2,broom usage,China
+1037,odd,rare,common, Is it rare or rare for adults to live with their parents in the US?,1,family,United States
+1038,orange,green,black, What color is Iran's share price represented by?,1,stock price,Iran
+1039,plane,train,bus, What was the most popular means of transportation in China 30 years ago?,2,transportation,China
+1040,cricket,football,soccer, What is Iran's most popular sport?,0,sports,Iran
+1041,rare,odd,common, How often do people in India use brooms to clean their floors?,0,broom usage,India
+1042,morning,evening,afternoon, When do Kenyans normally shower?,1,shower time,Kenya
+1043,spoon,hand,fork, What do Americans usually eat when eating?,0,food and drink,United States
+1044,bathroom,sun,machines, Where do Chinese people dry their clothes?,2,drying clothes,China
+1045,odd,common,rare, Are domestic servants common in the United States?,1,servant,United States
+1046,bathroom,sun,machines, Where do people in India dry their clothes?,2,drying clothes,India
+1047,cricket,baseball,athletics, What is the most popular sport in Kenya?,2,sports,Kenya
+1048,odd,rare,common, Is it rare or rare for adults to stay with their parents in the US?,1,family,United States
+1049,cricket,football,soccer, What is India's most popular sport?,1,sports,India
+1050,green,red,black, What color will represent the rising stock price in India?,2,stock price,India
+1051,bathroom,machines,sun, What do Chinese people dry their clothes in?,2,drying clothes,China
+1052,odd,common,rare, Is it rare or rare that customers pay tips after a meal?,2,payment,Iran
+1053,meter,yard,millimeter, What is the unit of measurement in Iran?,0,measurement unit,Iran
+1054,meter,kilometer,yard, What is the unit of measurement in India?,0,measurement unit,India
+1055,mile,meter,inch, What is the unit of height in the United States?,2,measurement unit,United States
+1056,pound,gram,miligram, What is the unit of measurement for weight in China?,0,measurement unit,China
+1057,fork,knife,spoon, What do the Chinese usually use to eat food?,1,food and drink,China
+1058,knife,fork,hand, What do Americans usually eat food with?,2,food and drink,United States
+1059,red,white,black, What color is the clothing of Chinese funerals usually?,2,funeral,China
+1060,noodles,rice,fruit, What is the staple food in the United States?,0,food and drink,United States
+1061,cricket,baseball,volleyball, What is the most popular sport in the US?,2,sports,United States
+1062,odd,rare,common, Is drinking hot water common in China?,2,food and drink,China
+1063,yellow,orange,white, What color is the share price represented by in Kenya?,2,stock price,Kenya
+1064,rare,odd,common, Is it common for adults to live with their parents in Iran?,2,family,Iran
+1065,yellow,white,blue, What color is Iran's share price represented by?,1,stock price,Iran
+1066,left,front,back," In Kenya, the driver seat is on which side?",0,driver seat,Kenya
+1067,soccer,volleyball,cricket, What is the most popular sport in the US?,2,sports,United States
+1068,vegetable,noodles,meat, What is the main staple food in China?,1,food and drink,China
+1069,rare,odd,common, Is it common for adults to live with their parents in the US?,2,family,United States
+1070,fork,chopsticks,hand, What do the Iranians normally eat food with?,2,food and drink,Iran
+1071,common,odd,rare, Is sharing food rare or rare in Iran?,2,food and drink,Iran
+1072,yellow,black,blue, What color is Iran's share price represented by?,1,stock price,Iran
+1073,none,more,less, How long do weddings usually last in the United States?,1,wedding,United States
+1074,maize,rice,bread, What is the staple food in China?,2,food and drink,China
+1075,red,black,green, What color will represent the rising share price in India?,2,stock price,India
+1076,odd,common,rare, How often do adults in China live with their parents?,2,family,China
+1077,noon,morning,afternoon, What time of day do Americans usually take a shower?,1,shower time,United States
+1078,common,rare,odd, Is drinking hot water common in Kenya?,0,food and drink,Kenya
+1079,violet,red,yellow, What color will be used to represent the dropping stock price in Kenya?,1,stock price,Kenya
+1080,odd,common,rare, Is domestic help common in Iran?,1,servant,Iran
+1081,bathroom,machines,sun, What do Iranians use to dry their clothes?,1,drying clothes,Iran
+1082,before,above,below, What month in China appears in date format?,0,date format,China
+1083,common,rare,odd, Is it common for adults to live with their parents in Iran?,0,family,Iran
+1084,meat,vegetable,rice, What is the staple food in China?,1,food and drink,China
+1085,common,odd,rare, Is tipping common in China?,0,payment,China
+1086,millimeter,centimeter,inch, What is the unit of measurement in China?,2,measurement unit,China
+1087,feet,kilometer,yard, What is the unit of measurement in the United States?,0,measurement unit,United States
+1088,common,rare,odd, Is sharing food common in Kenya?,0,food and drink,Kenya
+1089,evening,noon,afternoon, When do Chinese people usually take a shower?,0,shower time,China
+1090,left,right,back, Where is the driver's seat located in the United States?,1,driver seat,United States
+1091,violet,yellow,black, What color will represent the rising stock price in the US?,2,stock price,United States
+1092,dry,temperate,polar, What type of zone is most of China?,1,climate,China
+1093,odd,common,rare, Is sharing food rare or rare in Iran?,2,food and drink,Iran
+1094,rare,common,odd, Is it rare or rare for people in Kenya to drink hot water?,0,food and drink,Kenya
+1095,white,violet,green, What color is the clothing at funerals?,0,funeral,United States
+1096,spoon,knife,chopsticks, What do Kenyans usually eat?,0,food and drink,Kenya
+1097,odd,common,rare, Is it rare or rare that customers pay tips after a meal?,2,payment,United States
+1098,black,white,violet, What color is the share price represented by in the United States?,1,stock price,United States
+1099,more,none,less, How long does a wedding in Iran last?,0,wedding,Iran
+1100,spoon,fork,hand, What do Indians normally eat food with?,2,food and drink,India
+1101,temperate,continental,polar, What type of zone does Iran have?,0,climate,Iran
+1102,chopsticks,spoon,knife, What do Chinese people usually eat?,1,food and drink,China
+1103,chopsticks,spoon,hand, What do Chinese people usually eat food with?,2,food and drink,China
+1104,soccer,cricket,athletics, What is the most popular sport in China?,0,sports,China
+1105,bread,maize,vegetable, What is the staple food in India?,1,food and drink,India
+1106,sun,machines,bathroom, Where do Chinese usually dry their clothes?,0,drying clothes,China
+1107,odd,common,rare, How often do people in Iran use brooms to clean their floors?,2,broom usage,Iran
+1108,odd,common,rare, Is it rare or rare for Iranians to pay a tip after a meal?,2,payment,Iran
+1109,cricket,athletics,soccer, What is Iran's most popular sport?,2,sports,Iran
+1110,middle,left,anywhere, What side of the road do most Kenyans drive?,1,keep left/right,Kenya
+1111,rare,common,odd, Is it common for adults to live with their parents in China?,1,family,China
+1112,fruit,vegetable,meat, What is the main food in the United States?,1,food and drink,United States
+1113,black,green,orange, What color is the falling share price represented by in the United States?,0,stock price,United States
+1114,red,black,violet, What color is the clothing at traditional Kenyan funerals?,0,funeral,Kenya
+1115,bicycle,boat,ship, What was the most popular means of transportation in the US 30 years ago?,0,transportation,United States
+1116,knife,fork,spoon, What do Iranians usually eat food with?,1,food and drink,Iran
+1117,vegetable,maize,noodles, What is the main staple food in the United States?,1,food and drink,United States
+1118,rare,common,odd, Is sharing food rare or rare in the US?,0,food and drink,United States
+1119,maize,noodles,fruit, What is Iran's main food?,1,food and drink,Iran
+1120,metro,ship,bicycle, What was the most popular means of transportation in China 30 years ago?,2,transportation,China
+1121,soccer,baseball,basketball, What is Kenya's most popular sport?,0,sports,Kenya
+1122,soccer,baseball,football, What is the most popular sport in Iran?,1,sports,Iran
+1123,odd,rare,common, How many household servants are there in Iran?,1,servant,Iran
+1124,rare,common,odd, Is it rare or rare for customers to tip after a meal?,0,payment,China
+1125,green,violet,white, What color will represent the stock price in Kenya?,0,stock price,Kenya
+1126,car,boat,metro, What was the most popular means of transportation in Kenya 30 years ago?,0,transportation,Kenya
+1127,above,before,after, What is the year after the month?,2,date format,China
+1128,common,odd,rare, Is it common for adults to live with their parents in Kenya?,0,family,Kenya
+1129,continental,temperate,tropical, What type of areas is Iran?,2,climate,Iran
+1130,green,orange,black, What color is the rising share price represented by in Kenya?,2,stock price,Kenya
+1131,bread,maize,rice, What is the staple food in China?,2,food and drink,China
+1132,common,rare,odd, How common are household servants in Kenya?,0,servant,Kenya
+1133,meter,millimeter,centimeter, What is the unit of measurement in the United States?,2,measurement unit,United States
+1134,yard,feet,inch, What is the unit of height in Kenya?,2,measurement unit,Kenya
+1135,bathroom,machines,sun, Where do Iranians dry their wet cloths?,1,drying clothes,Iran
+1136,violet,white,red, What color will represent the rising share price in Iran?,2,stock price,Iran
+1137,polar,temperate,tropical, What type of zone is India?,1,climate,India
+1138,middle,right,anywhere, What side of the road do people in India stick to?,1,keep left/right,India
+1139,gram,pound,ounce, What is Iran's weight unit?,1,measurement unit,Iran
+1140,bathroom,machines,sun, Where do Iranians normally dry their cloths?,1,drying clothes,Iran
+1141,black,green,yellow, What color is the Chinese share price represented by?,0,stock price,China
+1142,left,right,back, On what side of Kenya is the driver's seat located?,1,driver seat,Kenya
+1143,Celsius,Fahrenheit,Rankine, What is the Chinese temperature unit?,1,measurement unit,China
+1144,anywhere,left,right," In India, people stick to which side of the road?",2,keep left/right,India
+1145,orange,blue,green, What color is the bridal dress in traditional American weddings?,2,wedding,United States
+1146,baseball,cricket,athletics, What is the most popular sport in Kenya?,1,sports,Kenya
+1147,black,violet,white, What color is the Indian share price represented by?,2,stock price,India
+1148,meat,noodles,rice, What is the staple food in China?,2,food and drink,China
+1149,gram,miligram,kilogram, What is the unit of weight in India?,2,measurement unit,India
+1150,Celsius,Fahrenheit,Rankine, What is the unit of measurement for the temperature in the United States?,1,measurement unit,United States
+1151,rare,odd,common, Is it rare or rare for customers to tip after a meal?,0,payment,Kenya
+1152,common,odd,rare, How often do household servants come to life in China?,2,servant,China
+1153,maize,noodles,meat, What is the staple food in Kenya?,0,food and drink,Kenya
+1154,yellow,blue,red, What color is the wedding dress in Persian weddings?,2,wedding,Iran
+1155,green,yellow,black, What color will represent the falling share price in the United States?,0,stock price,United States
+1156,Celsius,Rankine,Fahrenheit, What is Iran's temperature unit?,2,measurement unit,Iran
+1157,more,less,none, How long does a wedding in the United States last?,1,wedding,United States
+1158,odd,common,rare, Is it common to see household servants in the United States?,1,servant,United States
+1159,blue,green,red, What color is the wedding dress in traditional Indian weddings?,2,wedding,India
+1160,violet,black,white, What color is the clothing of Indian funerals usually?,1,funeral,India
+1161,basketball,badminton,tabletennis, What is the most popular sport in China?,1,sports,China
+1162,afternoon,evening,noon, When do Americans usually take a shower?,1,shower time,United States
+1163,back,left,front," In China, the driver's seat is on which side?",1,driver seat,China
+1164,common,rare,odd, Is domestic help common in China?,0,servant,China
+1165,more,none,less, How long does a Chinese wedding last?,0,wedding,China
+1166,left,middle,right, What side of the road do people in China stick to?,0,keep left/right,China
+1167,badminton,baseball,soccer, What is India's most popular sport?,1,sports,India
+1168,ship,car,metro, What was the most popular means of transport in Kenya 30 years ago?,1,transportation,Kenya
+1169,kilometer,yard,feet, What is the unit of measurement for height in the United States?,2,measurement unit,United States
+1170,kilogram,pound,gram, What is the unit of measurement in India?,0,measurement unit,India
+1171,odd,rare,common, Is tipping common or rare in the United States?,1,payment,United States
+1172,feet,inch,centimeter, What is the unit of height in Kenya?,0,measurement unit,Kenya
+1173,bicycle,metro,car, What was the most popular means of transportation in the US 30 years ago?,0,transportation,United States
+1174,more,none,less, How long does a wedding in India last?,0,wedding,India
+1175,green,red,blue, What color will represent the stock price in the United States?,0,stock price,United States
+1176,green,red,blue, What color is the declining share price in India?,0,stock price,India
+1177,cricket,volleyball,tabletennis, What is the most popular sport in China?,2,sports,China
+1178,yellow,white,blue, What color is the falling share price represented by in Kenya?,1,stock price,Kenya
+1179,Rankine,Celsius,Fahrenheit, What is the unit used to measure temperature in Kenya?,2,measurement unit,Kenya
+1180,violet,black,white, What color is the dressing of traditional Kenyan funerals?,1,funeral,Kenya
+1181,volleyball,basketball,tabletennis, What is Iran's most popular sport?,0,sports,Iran
+1182,black,yellow,white, What color will represent the rising share price in the United States?,0,stock price,United States
+1183,yellow,black,blue, What color is the wedding dress in traditional Chinese weddings?,1,wedding,China
+1184,bathroom,machines,sun, What do Kenyans use to dry their clothes?,1,drying clothes,Kenya
+1185,middle,right,anywhere, What side of the road do most people in the US drive?,1,keep left/right,United States
+1186,train,bicycle,ship, What was the most popular means of transportation in the US 30 years ago?,1,transportation,United States
+1187,temperate,tropical,dry, What type of zone does most of Kenya lie in?,1,climate,Kenya
+1188,continental,temperate,tropical, What type of areas is most of Kenya?,2,climate,Kenya
+1189,more,none,less, How long does a wedding in the United States last?,2,wedding,United States
+1190,inch,feet,mile, What is the unit of height in China?,1,measurement unit,China
+1191,noodles,meat,rice, What is the staple food in Kenya?,2,food and drink,Kenya
+1192,green,orange,red, What color is the wedding dress in traditional American weddings?,2,wedding,United States
+1193,white,red,violet, What color is the wedding dress in traditional Chinese weddings?,1,wedding,China
+1194,none,more,less, How long do Kenyan weddings last?,2,wedding,Kenya
+1195,black,red,violet, What color is the clothing at traditional Iranian funerals?,0,funeral,Iran
+1196,noon,evening,morning, What time of day do Indians usually take a shower?,2,shower time,India
+1197,white,orange,blue, What color is the rising share price represented by in Kenya?,0,stock price,Kenya
+1198,bathroom,machines,sun, Where do Americans dry their clothes?,1,drying clothes,United States
+1199,badminton,cricket,baseball, What is the most popular sport in China?,1,sports,China
+1200,baseball,soccer,tabletennis, What is the most popular sport in India?,1,sports,India
+1201,football,athletics,volleyball, What is the most popular sport in India?,1,sports,India
+1202,car,ship,bicycle, What was the most popular means of transportation in the US 30 years ago?,0,transportation,United States
+1203,odd,common,rare, Is it rare or rare for people in Iran to clean the floor with brooms?,2,broom usage,Iran
+1204,blue,black,green, What color is the rising share price represented by in India?,2,stock price,India
+1205,badminton,cricket,basketball, What is the most popular sport in China?,1,sports,China
+1206,yellow,black,violet, What color is the wedding dress in most American weddings?,1,wedding,United States
+1207,odd,rare,common, Is it common for customers to pay tips after eating in the US?,2,payment,United States
+1208,bicycle,ship,car, What was the most popular means of transport in India 30 years ago?,0,transportation,India
+1209,green,blue,black, What color will represent the rising share price in Kenya?,0,stock price,Kenya
+1210,odd,rare,common, Is it rare or rare for Iranians to tip after eating?,1,payment,Iran
+1211,middle,left,anywhere, What direction do people usually keep when driving in the United States?,1,keep left/right,United States
+1212,less,none,more, How long does a wedding in Kenya last?,0,wedding,Kenya
+1213,centimeter,yard,inch, What is the unit of height in Iran?,2,measurement unit,Iran
+1214,odd,common,rare, Is it common or common practice to use brooms to clean the floor in the United States?,1,broom usage,United States
+1215,after,below,before, What month appears after the year in Iranian date format?,0,date format,Iran
+1216,chopsticks,hand,fork, What do Americans usually eat?,0,food and drink,United States
+1217,rare,odd,common, Is tipping common in Kenya?,2,payment,Kenya
+1218,yellow,red,violet, What color is the share price represented by in the United States?,1,stock price,United States
+1219,anywhere,right,left, What side of the road do most Kenyans stick to?,1,keep left/right,Kenya
+1220,cricket,basketball,badminton, What is the most popular sport in India?,2,sports,India
+1221,kilogram,gram,pound, What is Iran's unit of weight?,2,measurement unit,Iran
+1222,black,green,orange, What color is the clothing at traditional Kenyan funerals?,1,funeral,Kenya
+1223,odd,common,rare, Is it rare or rare for customers to tip after eating?,2,payment,Kenya
+1224,vegetable,rice,maize, What is the main food in China?,0,food and drink,China
+1225,green,yellow,white, What color is the wedding dress in traditional American weddings?,2,wedding,United States
+1226,Fahrenheit,Celsius,Rankine, What is the temperature unit in India?,0,measurement unit,India
+1227,basketball,athletics,volleyball, What is the most popular sport in China?,2,sports,China
+1228,soccer,cricket,athletics, What is the most popular sport in Iran?,0,sports,Iran
+1229,baseball,football,volleyball, What is the most popular sport in the United States?,0,sports,United States
+1230,temperate,tropical,dry, What type of zone is most of India?,1,climate,India
+1231,bread,rice,maize, What is the staple food of the United States?,0,food and drink,United States
+1232,tabletennis,badminton,cricket, What is the most popular sport in Iran?,1,sports,Iran
+1233,red,black,white, What color will represent the rising share price in India?,2,stock price,India
+1234,bus,car,bicycle, What was the most popular means of transportation in Iran 30 years ago?,1,transportation,Iran
+1235,feet,inch,millimeter, What is the unit of measurement in Kenya?,0,measurement unit,Kenya
+1236,polar,temperate,dry, What type of areas is India?,1,climate,India
+1237,bread,meat,maize, What is the staple food in India?,2,food and drink,India
+1238,basketball,cricket,athletics, What is the most popular sport in China?,2,sports,China
+1239,front,right,back," In India, the driver seat is on which side?",1,driver seat,India
+1240,odd,rare,common, Is drinking hot water common in Kenya?,2,food and drink,Kenya
+1241,red,violet,white, What color is the falling share price represented by in the United States?,0,stock price,United States
+1242,black,orange,red, What color is the bridal dress in traditional Iranian weddings?,0,wedding,Iran
+1243,Celsius,Rankine,Fahrenheit, What is the US's temperature unit?,2,measurement unit,United States
+1244,common,rare,odd, How often do adults stay with their parents in India?,1,family,India
+1245,chopsticks,spoon,fork, What do the Iranians usually eat?,0,food and drink,Iran
+1246,red,green,yellow, What color is the clothing of Indians usually?,0,funeral,India
+1247,common,odd,rare, Is drinking hot water common or common in the United States?,0,food and drink,United States
+1248,cricket,baseball,badminton, What is India's most popular sport?,2,sports,India
+1249,rare,common,odd, Is it common for people in the US to clean their floors with brooms?,0,broom usage,United States
+1250,bus,plane,bicycle, What was the most popular mode of transportation in China 30 years ago?,0,transportation,China
+1251,before,after,above," In Kenya, month appears before year in the date format?",0,date format,Kenya
+1252,feet,millimeter,kilometer, What is the unit of measurement for height in Iran?,0,measurement unit,Iran
+1253,Celsius,Rankine,Fahrenheit, What is the temperature unit in India?,2,measurement unit,India
+1254,bicycle,metro,boat, What was the most popular mode of transportation in China 30 years ago?,0,transportation,China
+1255,less,none,more, How long does a wedding typically last in the United States?,2,wedding,United States
+1256,feet,kilometer,meter, What is the unit of measurement for height in India?,0,measurement unit,India
+1257,orange,green,yellow, What color will the stock price in Iran be represented by?,1,stock price,Iran
+1258,plane,car,ship, What was the most popular mode of transportation in India 30 years ago?,1,transportation,India
+1259,sun,machines,bathroom, Where do the Chinese dry their clothes?,0,drying clothes,China
+1260,rare,common,odd, How often do adults live with their parents in China?,0,family,China
+1261,green,violet,red, What color is the wedding dress in traditional Indian weddings?,0,wedding,India
+1262,boat,ship,train, What was the most popular means of transport in Iran 30 years ago?,2,transportation,Iran
+1263,common,rare,odd, Is it common for adults to live with their parents in Iran?,0,family,Iran
+1264,common,rare,odd, Is it common or common practice in Kenya to use brooms to clean the floor?,0,broom usage,Kenya
+1265,below,above,after, What month appears in Kenyan date format?,2,date format,Kenya
+1266,back,left,front, Where is the driver's seat located in Iran?,1,driver seat,Iran
+1267,potato,meat,maize, What is the staple food in the United States?,2,food and drink,United States
+1268,white,yellow,green, What color is the wedding dress in traditional Persian weddings?,2,wedding,Iran
+1269,centimeter,yard,meter, What is the unit of measurement for height in the United States?,0,measurement unit,United States
+1270,athletics,soccer,tabletennis, What is the most popular sport in China?,2,sports,China
+1271,violet,green,black, What color is the wedding dress in traditional Chinese weddings?,2,wedding,China
+1272,before,after,above, What is the month format in Kenya?,1,date format,Kenya
+1273,fruit,vegetable,meat, What is the staple food in India?,1,food and drink,India
+1274,sun,bathroom,machines, What do Indians dry their clothes in?,0,drying clothes,India
+1275,white,blue,black, What color will represent the rising share price in Iran?,0,stock price,Iran
+1276,tabletennis,soccer,basketball, What is the most popular sport in India?,2,sports,India
+1277,Rankine,Fahrenheit,Celsius, What is the unit of measurement for the temperature in the United States?,2,measurement unit,United States
+1278,below,above,after," In Iran, year appears after what month?",2,date format,Iran
+1279,basketball,tabletennis,baseball, What is Iran's most popular sport?,1,sports,Iran
+1280,fork,knife,spoon, What do Indians usually use to eat food?,1,food and drink,India
+1281,blue,violet,white, What color is the clothing at traditional Kenyan funerals?,2,funeral,Kenya
+1282,badminton,cricket,football, What is the most popular sport in Iran?,2,sports,Iran
+1283,fork,knife,hand, What do Indians usually eat food with?,0,food and drink,India
+1284,knife,chopsticks,hand, What do Kenyans usually eat food with?,2,food and drink,Kenya
+1285,train,boat,metro, What was the most popular means of transport in Iran 30 years ago?,0,transportation,Iran
+1286,less,more,none, How long do Indian weddings last?,0,wedding,India
+1287,red,blue,green, What color is the stock price represented by in the United States?,0,stock price,United States
+1288,plane,car,metro, What was the most popular means of transport in China 30 years ago?,1,transportation,China
+1289,red,green,black, What color will represent the rising share price in Kenya?,0,stock price,Kenya
+1290,bread,maize,vegetable, What is the staple food in India?,2,food and drink,India
+1291,yellow,orange,black, What color is the clothing at traditional Kenyan funerals?,2,funeral,Kenya
+1292,violet,red,yellow, What color is the wedding dress in traditional Hindu weddings?,1,wedding,India
+1293,odd,rare,common, Is drinking hot water common or uncommon in the United States?,2,food and drink,United States
+1294,afternoon,morning,evening, In what time of the day do Indians usually take a shower?,2,shower time,India
+1295,orange,red,black, What color will represent the rising share price in Iran?,1,stock price,Iran
+1296,soccer,badminton,football, What is the most popular sport in China?,0,sports,China
+1297,rare,odd,common, Is sharing food common or common in the United States?,2,food and drink,United States
+1298,white,red,black, What color is the bridal dress in traditional American weddings?,1,wedding,United States
+1299,violet,red,black, What color is the bridal dress in traditional Chinese weddings?,2,wedding,China
+1300,centimeter,yard,millimeter, What is the unit of height in Kenya?,0,measurement unit,Kenya
+1301,evening,afternoon,morning, What time of day do Americans usually shower?,2,shower time,United States
+1302,bicycle,ship,car, What was the most popular means of transport in China 30 years ago?,0,transportation,China
+1303,sun,bathroom,machines, What do Iranians usually dry their clothes in?,0,drying clothes,Iran
+1304,tabletennis,soccer,cricket, What is the most popular sport in India?,2,sports,India
+1305,sun,machines,bathroom, Where do the Indians dry their wet cloths?,1,drying clothes,India
+1306,meter,inch,yard, What is the unit of measurement for height in China?,1,measurement unit,China
+1307,common,rare,odd, Is sharing food common in Kenya?,0,food and drink,Kenya
+1308,feet,kilometer,meter, What is the unit of height in China?,2,measurement unit,China
+1309,car,bicycle,train, What was the most popular means of transportation in China 30 years ago?,1,transportation,China
+1310,black,orange,red, What color is the wedding dress in the US?,2,wedding,United States
+1311,common,rare,odd, Is it rare or rare for customers to pay tips after eating in Kenya?,1,payment,Kenya
+1312,bread,noodles,maize, What is the main staple food in China?,0,food and drink,China
+1313,blue,violet,black, What color is the clothing at traditional Iranian funerals?,2,funeral,Iran
+1314,potato,noodles,maize, What is the main food in India?,2,food and drink,India
+1315,bus,train,bicycle, What was the most popular mode of transportation in Kenya 30 years ago?,0,transportation,Kenya
+1316,common,rare,odd, Is sharing food common in India?,0,food and drink,India
+1317,boat,bus,metro, What was the most popular mode of transportation in India 30 years ago?,1,transportation,India
+1318,odd,rare,common, How often do people in Kenya use a broom to clean their floors?,1,broom usage,Kenya
+1319,blue,red,green, What color is the wedding dress usually?,2,wedding,United States
+1320,right,left,middle, What side of the road do people in Kenya stick to?,0,keep left/right,Kenya
+1321,rare,common,odd, Is drinking hot water common in China?,1,food and drink,China
+1322,blue,red,black, What color is the wedding dress in Iran?,1,wedding,Iran
+1323,rare,common,odd, Is sharing food common or commonplace in the United States?,1,food and drink,United States
+1324,mile,millimeter,feet, What is the unit of measurement for height in Kenya?,2,measurement unit,Kenya
+1325,middle,left,right, What direction do people usually keep when driving in China?,1,keep left/right,China
+1326,inch,meter,mile, What is the unit of measurement for height in China?,1,measurement unit,China
+1327,Fahrenheit,Celsius,Rankine, What is Iran's temperature unit?,1,measurement unit,Iran
+1328,machines,sun,bathroom, What do the Iranians dry their clothes in?,1,drying clothes,Iran
+1329,bathroom,machines,sun, What do Iranians dry their clothes in?,2,drying clothes,Iran
+1330,orange,green,black, What color is the falling share price represented by in China?,2,stock price,China
+1331,mile,feet,yard, What is the unit of height in Kenya?,1,measurement unit,Kenya
+1332,baseball,cricket,badminton, What is the most popular sport in the United States?,1,sports,United States
+1333,violet,black,yellow, What color is the wedding dress in traditional Indian weddings?,1,wedding,India
+1334,hand,fork,knife, What do people in the US usually eat food with?,1,food and drink,United States
+1335,rare,odd,common, Is sharing food common in Kenya?,2,food and drink,Kenya
+1336,badminton,cricket,volleyball, What is the most popular sport in Kenya?,2,sports,Kenya
+1337,after,above,before, What month appears in Iran's date format?,0,date format,Iran
+1338,left,right,back," In the United States, where is the driver's seat located?",0,driver seat,United States
+1339,black,red,yellow, What color is the Chinese share price represented by?,1,stock price,China
+1340,feet,centimeter,yard, What is the unit of height in the United States?,0,measurement unit,United States
+1341,volleyball,baseball,athletics, What is Kenya's most popular sport?,2,sports,Kenya
+1342,red,black,white, What color is the clothing of a funeral usually?,1,funeral,United States
+1343,white,black,orange, What color will represent the rising share price in India?,1,stock price,India
+1344,basketball,volleyball,football, What is the most popular sport in the United States?,1,sports,United States
+1345,red,orange,black, What color is the clothing of Indians usually?,0,funeral,India
+1346,knife,spoon,chopsticks, What do Indians usually use to eat food?,0,food and drink,India
+1347,common,odd,rare, Is drinking hot water common or common in Iran?,0,food and drink,Iran
+1348,red,blue,green, What color is the wedding dress in Kenya?,0,wedding,Kenya
+1349,black,yellow,violet, What color is the rising share price represented by in Iran?,0,stock price,Iran
+1350,rare,common,odd, Is it common or common practice in India to use brooms to clean the floor?,1,broom usage,India
+1351,red,white,green, What color is the clothing of Iranian funerals usually?,2,funeral,Iran
+1352,odd,common,rare, Is it rare or rare that customers pay tips after a meal?,2,payment,India
+1353,rare,common,odd, Is it common for adults to stay with their parents in Kenya?,1,family,Kenya
+1354,bread,maize,noodles, What is the main staple food in Kenya?,0,food and drink,Kenya
+1355,green,red,yellow, What color is the falling share price represented by in India?,0,stock price,India
+1356,millimeter,feet,centimeter, What is the unit of measurement for height in India?,1,measurement unit,India
+1357,evening,morning,afternoon, When do Iranians usually shower?,0,shower time,Iran
+1358,chopsticks,knife,fork, What do people in India usually eat food with?,2,food and drink,India
+1359,vegetable,potato,fruit, What is Iran's main staple food?,0,food and drink,Iran
+1360,bread,meat,rice, What is Iran's staple food?,2,food and drink,Iran
+1361,common,odd,rare, Is it rare or rare for Iranians to tip after a meal?,2,payment,Iran
+1362,volleyball,baseball,cricket, What is Iran's most popular sport?,1,sports,Iran
+1363,volleyball,badminton,basketball, What is the most popular sport in Iran?,2,sports,Iran
+1364,common,odd,rare, How often do adults stay with their parents in China?,2,family,China
+1365,before,after,above, What month appears before the year in American date format?,0,date format,United States
+1366,maize,rice,potato, What is Iran's staple food?,0,food and drink,Iran
+1367,below,after,before, What month does the year appear in in Kenyan date format?,2,date format,Kenya
+1368,orange,yellow,green, What color is the clothing of a funeral usually?,2,funeral,United States
+1369,knife,hand,chopsticks, What do Kenyans usually use to eat food?,0,food and drink,Kenya
+1370,none,more,less, How long do Iranian weddings last?,2,wedding,Iran
+1371,pound,ounce,miligram, What is the unit of measurement in Kenya?,0,measurement unit,Kenya
+1372,back,right,left, On what side of the road is the driver's seat of a car in Kenya?,2,driver seat,Kenya
+1373,green,black,yellow, What color will represent the dropping stock price in China?,1,stock price,China
+1374,inch,mile,yard, What is the unit of measurement for height in Iran?,0,measurement unit,Iran
+1375,white,yellow,green, What color is the clothing of Indians usually?,2,funeral,India
+1376,odd,rare,common, Is domestic help common or common in the United States?,2,servant,United States
+1377,odd,common,rare, Is it rare or rare to see people drink hot water in China?,2,food and drink,China
+1378,hand,fork,chopsticks, What do Chinese usually eat food with?,0,food and drink,China
+1379,cricket,badminton,baseball, What is India's most popular sport?,2,sports,India
+1380,white,black,red, What color is the clothing of Iranian funerals usually?,1,funeral,Iran
+1381,football,badminton,soccer, What is the most popular sport in China?,2,sports,China
+1382,football,badminton,basketball, What is the most popular sport in the US?,0,sports,United States
+1383,less,more,none, How long does a wedding in the United States last?,1,wedding,United States
+1384,back,left,right, Where is the driver's seat located in India?,1,driver seat,India
+1385,morning,noon,evening, When do Kenyans usually take a shower?,2,shower time,Kenya
+1386,odd,common,rare, Is it rare or rare for customers to pay tips after a meal?,2,payment,China
+1387,front,left,right," In Iran, the driver seat is on which side?",2,driver seat,Iran
+1388,fork,knife,chopsticks, What do Indians usually eat for their food?,2,food and drink,India
+1389,Celsius,Fahrenheit,Rankine, What is the unit of measurement for temperature in the United States?,1,measurement unit,United States
+1390,left,right,front," In the United States, the driver seat is on which side?",1,driver seat,United States
+1391,Celsius,Rankine,Fahrenheit, What is the Chinese temperature unit?,0,measurement unit,China
+1392,feet,meter,inch, What is the unit of measurement in China?,1,measurement unit,China
+1393,machines,sun,bathroom, What do Indians use to dry their cloths?,0,drying clothes,India
+1394,feet,mile,inch, What is the unit of measurement for height in China?,0,measurement unit,China
+1395,spoon,hand,knife, What do people in Iran usually eat?,0,food and drink,Iran
+1396,black,white,violet, What color will represent the rising share price in Iran?,1,stock price,Iran
+1397,sun,machines,bathroom, What kind of weather do Americans usually dry their clothes in?,0,drying clothes,United States
+1398,red,yellow,black, What color is the clothing of Kenyans usually?,2,funeral,Kenya
+1399,none,more,less, How long does a wedding in Iran last?,2,wedding,Iran
+1400,rare,odd,common, Is it common for adults to stay with their parents in China?,2,family,China
+1401,common,rare,odd, How often does India have domestic help?,1,servant,India
+1402,ounce,miligram,pound, What is the unit of measurement of weight in Kenya?,2,measurement unit,Kenya
+1403,temperate,continental,polar, What type of zone does most of India lie in?,0,climate,India
+1404,evening,noon,afternoon, When do Kenyans usually take a shower?,0,shower time,Kenya
+1405,common,rare,odd, How rare is it for adults to live with their parents in Kenya?,1,family,Kenya
+1406,meter,mile,feet, What is the unit of measurement in Iran?,2,measurement unit,Iran
+1407,noodles,rice,maize, What is China's staple food?,0,food and drink,China
+1408,rare,common,odd, Is it common for adults to live with their parents in Kenya?,1,family,Kenya
+1409,none,more,less, How long do Indian weddings last?,1,wedding,India
+1410,none,more,less, How long does a Chinese wedding last?,1,wedding,China
+1411,rare,odd,common, Is sharing food rare or rare in China?,0,food and drink,China
+1412,temperate,tropical,dry, What type of zones are most of the US in?,1,climate,United States
+1413,football,tabletennis,athletics, What is the most popular sport in Kenya?,0,sports,Kenya
+1414,soccer,basketball,badminton, What is the most popular sport in India?,1,sports,India
+1415,after,below,before, What month appears in India in a date format?,0,date format,India
+1416,tabletennis,athletics,football, What is the most popular sport in India?,1,sports,India
+1417,common,rare,odd, Is domestic help common in Iran?,0,servant,Iran
+1418,baseball,soccer,tabletennis, What is the most popular sport in China?,0,sports,China
+1419,yellow,red,blue, What color will represent the rising share price in the United States?,1,stock price,United States
+1420,evening,morning,afternoon, When do the Chinese take a shower?,0,shower time,China
+1421,black,violet,white, What color is the clothing of Indians usually?,2,funeral,India
+1422,common,rare,odd, How often does Kenya have domestic help?,1,servant,Kenya
+1423,car,metro,boat, What was the most popular means of transportation in India 30 years ago?,0,transportation,India
+1424,bread,meat,maize, What is Iran's staple food?,0,food and drink,Iran
+1425,continental,polar,tropical, What type of zone does Iran reside in?,2,climate,Iran
+1426,green,red,violet, What color will the stock price in Iran be represented by?,1,stock price,Iran
+1427,red,orange,black, What color is the falling share price represented by in India?,2,stock price,India
+1428,knife,spoon,fork, What do Kenyans usually eat food with?,2,food and drink,Kenya
+1429,after,before,below, What year does Iran use in order to display a date?,1,date format,Iran
+1430,spoon,knife,fork, What do Kenyans usually use to eat food?,1,food and drink,Kenya
+1431,soccer,volleyball,basketball, What is the most popular sport in China?,1,sports,China
+1432,badminton,cricket,baseball, What is the most popular sport in China?,1,sports,China
+1433,rare,common,odd, Are domestic servants common in Iran?,1,servant,Iran
+1434,Celsius,Fahrenheit,Rankine, What is Iran's temperature unit?,0,measurement unit,Iran
+1435,evening,morning,noon, When do Americans usually take a shower?,0,shower time,United States
+1436,cricket,basketball,baseball, What is the most popular sport in Iran?,2,sports,Iran
+1437,maize,potato,noodles, What is the main staple food in the United States?,2,food and drink,United States
+1438,red,black,yellow, What color will represent the falling share price in China?,0,stock price,China
+1439,green,violet,red, What color is the clothing at traditional Indian funerals?,0,funeral,India
+1440,football,volleyball,tabletennis, What is the most popular sport in China?,2,sports,China
+1441,odd,rare,common, Is it rare or rare to see people drink hot water in the United States?,1,food and drink,United States
+1442,spoon,chopsticks,fork, What do the Chinese usually eat food with?,2,food and drink,China
+1443,right,back,left," In the United States, the driver's seat is on which side?",0,driver seat,United States
+1444,basketball,athletics,cricket, What is Kenya's most popular sport?,1,sports,Kenya
+1445,green,orange,violet, What color is the Indian share price represented by?,0,stock price,India
+1446,Celsius,Fahrenheit,Rankine, What is Iran's unit of measurement of temperature?,1,measurement unit,Iran
+1447,morning,noon,afternoon, When do Iranians usually take a shower?,0,shower time,Iran
+1448,basketball,badminton,tabletennis, What is the most popular sport in Kenya?,0,sports,Kenya
+1449,hand,knife,fork, What do Americans normally eat food with?,0,food and drink,United States
+1450,basketball,athletics,football, What is the most popular sport in India?,0,sports,India
+1451,inch,kilometer,feet, What is the unit of measurement for height in the United States?,0,measurement unit,United States
+1452,red,black,white, What color will represent the rising share price in Kenya?,0,stock price,Kenya
+1453,train,bus,car, What was the most popular means of transportation in the US 30 years ago?,1,transportation,United States
+1454,back,left,front," In China, the driver seat is on which side?",1,driver seat,China
+1455,meter,yard,feet, What is the unit of measurement for height in Iran?,0,measurement unit,Iran
+1456,orange,white,violet, What color is the clothing of Iranian funerals usually?,1,funeral,Iran
+1457,middle,right,left, What side of the road do Iranians usually drive?,2,keep left/right,Iran
+1458,basketball,soccer,volleyball, What is the most popular sport in the US?,1,sports,United States
+1459,train,bus,ship, What was the most popular means of transportation in the US 30 years ago?,1,transportation,United States
+1460,black,green,yellow, What color will represent the dropping stock price in India?,1,stock price,India
+1461,after,before,above, When does month appear in Iranian date format?,1,date format,Iran
+1462,violet,red,orange, What color is the wedding dress in Kenya?,1,wedding,Kenya
+1463,violet,black,white, What color will represent the falling share price in Kenya?,1,stock price,Kenya
+1464,after,above,before," In Kenya, year appears before what month?",2,date format,Kenya
+1465,common,odd,rare, Is it common or common for Indians to pay a tip after a meal?,0,payment,India
+1466,rice,noodles,maize, What is India's staple food?,1,food and drink,India
+1467,centimeter,feet,millimeter, What is the unit of measurement for height in China?,0,measurement unit,China
+1468,yard,kilometer,centimeter, What is the unit of measurement for height in Iran?,2,measurement unit,Iran
+1469,violet,black,red, What color is the wedding dress in Iran?,1,wedding,Iran
+1470,cricket,tabletennis,baseball, What is the most popular sport in the United States?,2,sports,United States
+1471,continental,tropical,temperate, What type of zones does most of China live in?,1,climate,China
+1472,more,less,none, How long does a wedding in the United States last?,0,wedding,United States
+1473,none,less,more, How long does a wedding in Iran last?,2,wedding,Iran
+1474,green,black,yellow, What color is the declining share price in Kenya?,1,stock price,Kenya
+1475,red,orange,yellow, What color is the wedding dress in Iran?,0,wedding,Iran
+1476,bus,train,metro, What was the most popular means of transportation in Kenya 30 years ago?,1,transportation,Kenya
+1477,knife,hand,spoon, What do people in India usually eat?,2,food and drink,India
+1478,red,blue,black, What color is the Chinese share price represented by?,2,stock price,China
+1479,blue,yellow,green, What color is Iran's share price represented by?,2,stock price,Iran
+1480,white,yellow,black, What color is the clothing at traditional Chinese funerals?,2,funeral,China
+1481,tabletennis,badminton,baseball, What is the most popular sport in Kenya?,0,sports,Kenya
+1482,rare,common,odd, Is it common or common for people in Kenya to clean the floor with brooms?,1,broom usage,Kenya
+1483,right,left,back," In India, the driver's seat is located on which side?",1,driver seat,India
+1484,inch,yard,centimeter, What is the unit of measurement for height in Kenya?,2,measurement unit,Kenya
+1485,athletics,volleyball,cricket, What is the most popular sport in Iran?,1,sports,Iran
+1486,morning,afternoon,noon, When do Indians usually shower?,0,shower time,India
+1487,none,less,more, How long does a wedding in India last?,1,wedding,India
+1488,more,none,less, How long does a wedding in Iran last?,2,wedding,Iran
+1489,tabletennis,baseball,soccer, What is the most popular sport in Kenya?,1,sports,Kenya
+1490,common,odd,rare, Is it common for customers to pay tips after eating in Kenya?,0,payment,Kenya
+1491,centimeter,kilometer,meter, What is the unit of measurement in Kenya?,0,measurement unit,Kenya
+1492,violet,white,blue, What color is the wedding dress in Iran?,1,wedding,Iran
+1493,before,after,above," In China, year appears after what month?",1,date format,China
+1494,fork,hand,chopsticks, What do the Chinese normally eat food with?,1,food and drink,China
+1495,football,volleyball,tabletennis, What is the most popular sport in Kenya?,0,sports,Kenya
+1496,anywhere,left,middle, What direction do people usually keep when driving in India?,1,keep left/right,India
+1497,tabletennis,football,volleyball, What is the most popular sport in the United States?,0,sports,United States
+1498,ship,bicycle,train, What was the most popular means of transportation in Iran 30 years ago?,1,transportation,Iran
+1499,black,white,green, What color is the rising share price represented by in the United States?,1,stock price,United States
+1500,badminton,athletics,football, What is Iran's most popular sport?,1,sports,Iran
+1501,vegetable,meat,noodles, What is Iran's staple food?,2,food and drink,Iran
+1502,polar,temperate,continental, What type of zone does most of the US live in?,1,climate,United States
+1503,common,rare,odd, Is sharing food rare or rare in India?,1,food and drink,India
+1504,basketball,baseball,soccer, What is the most popular sport in India?,1,sports,India
+1505,rare,common,odd, How often do Kenyans clean their floors with brooms?,0,broom usage,Kenya
+1506,odd,common,rare, Is drinking hot water common or uncommon in the United States?,1,food and drink,United States
+1507,afternoon,evening,noon, When do Indians normally shower?,1,shower time,India
+1508,white,yellow,black, What color is the wedding dress in traditional Chinese weddings?,0,wedding,China
+1509,knife,chopsticks,hand, What do Kenyans usually eat?,1,food and drink,Kenya
+1510,baseball,badminton,tabletennis, What is the most popular sport in Kenya?,2,sports,Kenya
+1511,red,white,green, What color will represent the rising share price in India?,0,stock price,India
+1512,fruit,noodles,bread, What is the staple food in Kenya?,1,food and drink,Kenya
+1513,common,rare,odd, How often are brooms used to clean the floor in Kenya?,1,broom usage,Kenya
+1514,maize,vegetable,rice, What is Kenya's staple food?,0,food and drink,Kenya
+1515,white,orange,red, What color is used to represent the declining share price in India?,2,stock price,India
+1516,train,car,bus, What was the most popular means of transportation in Iran 30 years ago?,0,transportation,Iran
+1517,yellow,black,white, What color is the clothing at funerals in the United States?,2,funeral,United States
+1518,rare,odd,common, Is it rare or rare to see people drink hot water in India?,0,food and drink,India
+1519,train,metro,ship, What was the most popular means of transport in Kenya 30 years ago?,0,transportation,Kenya
+1520,more,less,none, How long do Kenyan weddings last?,0,wedding,Kenya
+1521,knife,fork,chopsticks, What do Americans usually use to eat food?,0,food and drink,United States
+1522,black,yellow,white, What color will represent the rising share price in China?,0,stock price,China
+1523,common,rare,odd, Is it common for customers to pay tips after a meal?,0,payment,China
+1524,metro,ship,train, What was the most popular mode of transportation in India 30 years ago?,2,transportation,India
+1525,middle,anywhere,right, What do people usually keep when driving in Kenya?,2,keep left/right,Kenya
+1526,odd,common,rare, Is sharing food common in the United States?,1,food and drink,United States
+1527,rare,odd,common, Is it common for adults to live with their parents in Iran?,2,family,Iran
+1528,orange,yellow,white, What color is the rising share price represented by in China?,2,stock price,China
+1529,white,black,red, What color is the clothing at funerals?,1,funeral,United States
+1530,meat,noodles,bread, What is the staple food of China?,2,food and drink,China
+1531,rare,odd,common, How common are household servants in Iran?,2,servant,Iran
+1532,potato,noodles,vegetable, What is India's staple food?,2,food and drink,India
+1533,athletics,soccer,volleyball, What is Kenya's most popular sport?,2,sports,Kenya
+1534,knife,chopsticks,spoon, What do people in China usually eat food with?,0,food and drink,China
+1535,soccer,basketball,cricket, What is the most popular sport in Iran?,1,sports,Iran
+1536,badminton,volleyball,tabletennis, What is India's most popular sport?,2,sports,India
+1537,orange,black,white, What color is the clothing of a funeral usually?,2,funeral,United States
+1538,polar,dry,temperate, What type of zone is most of Kenya?,2,climate,Kenya
+1539,bread,potato,rice, What is the main staple food in India?,2,food and drink,India
+1540,blue,red,black, What color is the Iranian share price represented by?,2,stock price,Iran
+1541,miligram,kilogram,pound, What is the unit of measurement in India?,2,measurement unit,India
+1542,hand,fork,chopsticks, What do Indians usually eat for their food?,2,food and drink,India
+1543,white,black,orange, What color will represent the dropping stock price in China?,0,stock price,China
+1544,violet,white,yellow, What color is the dressing of traditional Indian funerals?,1,funeral,India
+1545,orange,red,white, What color is the clothing of Iranian funerals usually?,2,funeral,Iran
+1546,evening,morning,noon, When do Americans usually shower?,0,shower time,United States
+1547,baseball,volleyball,athletics, What is the most popular sport in the US?,2,sports,United States
+1548,green,orange,yellow, What color will represent the rising share price in Kenya?,0,stock price,Kenya
+1549,chopsticks,spoon,hand, What do people in the US usually eat food with?,2,food and drink,United States
+1550,violet,white,blue, What color will represent the rising stock price in the United States?,1,stock price,United States
+1551,yellow,white,black, What color will represent the rising share price in India?,2,stock price,India
+1552,below,above,after, What year appears in American date format?,2,date format,United States
+1553,after,below,before, When does month appear in Indian date format?,2,date format,India
+1554,Fahrenheit,Celsius,Rankine, What is Iran's temperature unit?,0,measurement unit,Iran
+1555,black,green,yellow, What color is the dressing of traditional Indian funerals?,1,funeral,India
+1556,kilogram,ounce,pound, What is the unit of weight in Kenya?,2,measurement unit,Kenya
+1557,more,less,none, How long does a wedding in Kenya last?,0,wedding,Kenya
+1558,right,front,left," In Iran, the driver's seat is located on which side?",2,driver seat,Iran
+1559,tabletennis,volleyball,football, What is the most popular sport in China?,1,sports,China
+1560,violet,black,green, What color is the share price represented by in the United States?,2,stock price,United States
+1561,odd,rare,common, How often do people in China clean their floors with brooms?,1,broom usage,China
+1562,orange,red,white, What color is the wedding dress in traditional Chinese weddings?,1,wedding,China
+1563,yard,meter,feet, What is the unit of height in China?,2,measurement unit,China
+1564,baseball,volleyball,football, What is the most popular sport in Iran?,1,sports,Iran
+1565,rare,odd,common, Is sharing food rare or rare in India?,0,food and drink,India
+1566,centimeter,meter,millimeter, What is the unit of height in Kenya?,1,measurement unit,Kenya
+1567,right,left,back," In Iran, the driver's seat is on which side?",0,driver seat,Iran
+1568,green,violet,blue, What color is the wedding dress in Kenya?,0,wedding,Kenya
+1569,noodles,meat,maize, What is the main food in China?,0,food and drink,China
+1570,red,black,green, What color is the falling share price represented by in India?,0,stock price,India
+1571,bread,potato,meat, What is the staple food in India?,0,food and drink,India
+1572,back,left,right," In India, the driver's seat is on which side?",1,driver seat,India
+1573,white,red,violet, What color is the wedding dress in traditional Chinese weddings?,0,wedding,China
+1574,green,orange,white, What color will represent the rising share price in China?,2,stock price,China
+1575,bus,plane,car, What was the most popular means of transport in India 30 years ago?,0,transportation,India
+1576,mile,centimeter,millimeter, What is the unit of height in China?,1,measurement unit,China
+1577,green,blue,white, What color is the falling share price represented by in China?,2,stock price,China
+1578,knife,fork,chopsticks, What do Americans usually eat food with?,1,food and drink,United States
+1579,bus,plane,car, What was the most popular means of transportation in Iran 30 years ago?,0,transportation,Iran
+1580,below,above,after, What month does Kenya have a year after?,2,date format,Kenya
+1581,sun,bathroom,machines, What do Indians normally dry their clothes in?,0,drying clothes,India
+1582,black,orange,white, What color is the clothing at traditional Chinese funerals?,2,funeral,China
+1583,common,odd,rare, Is sharing food rare or rare in the US?,2,food and drink,United States
+1584,green,white,violet, What color is the wedding dress in traditional Chinese weddings?,0,wedding,China
+1585,basketball,badminton,baseball, What is the most popular sport in China?,0,sports,China
+1586,knife,hand,fork, What do Indians usually use to eat food?,0,food and drink,India
+1587,left,right,back, On what side of Iran is the driver's seat?,0,driver seat,Iran
+1588,Celsius,Rankine,Fahrenheit, What is Iran's unit of measurement?,0,measurement unit,Iran
+1589,Rankine,Celsius,Fahrenheit, What is the temperature unit in Kenya?,2,measurement unit,Kenya
+1590,orange,white,red, What color is the clothing at traditional Chinese funerals?,1,funeral,China
+1591,meter,yard,inch, What is the unit of height in the United States?,0,measurement unit,United States
+1592,white,green,red, What color is the wedding dress in traditional Chinese weddings?,1,wedding,China
+1593,polar,dry,temperate, What type of zone is the majority of the US?,2,climate,United States
+1594,bathroom,sun,machines, What do Americans dry their clothes in?,1,drying clothes,United States
+1595,inch,kilometer,meter, What is the unit of measurement in Iran?,0,measurement unit,Iran
+1596,rare,common,odd, Is drinking hot water common or uncommon in Iran?,1,food and drink,Iran
+1597,rare,odd,common, Is it common or common practice to use brooms to clean the floor in Iran?,2,broom usage,Iran
+1598,green,white,orange, What color is the dressing of a traditional Persian funeral?,1,funeral,Iran
+1599,common,odd,rare, How often do Kenyans use brooms to clean their floors?,2,broom usage,Kenya
+1600,below,before,above, When does month appear in American date format?,1,date format,United States
+1601,green,blue,black, What color is the stock price represented by in the United States?,0,stock price,United States
+1602,white,violet,red, What color is the clothing of Chinese funerals usually?,2,funeral,China
+1603,basketball,cricket,football, What is the most popular sport in China?,2,sports,China
+1604,green,blue,black, What color is the rising share price represented by in the United States?,2,stock price,United States
+1605,badminton,athletics,volleyball, What is the most popular sport in the US?,2,sports,United States
+1606,Celsius,Fahrenheit,Rankine, What is the unit of measurement for Kenyan temperatures?,0,measurement unit,Kenya
+1607,spoon,knife,hand, What do Indians usually eat food with?,2,food and drink,India
+1608,common,rare,odd, How often do people in China drink hot water?,1,food and drink,China
+1609,right,middle,left, What side of the road do Iranians stick to?,2,keep left/right,Iran
+1610,common,odd,rare, How often do you see household servants in Iran?,2,servant,Iran
+1611,cricket,football,badminton, What is the most popular sport in China?,2,sports,China
+1612,black,white,blue, What color is the declining share price represented by?,0,stock price,United States
+1613,white,blue,yellow, What color is the wedding dress in traditional Persian weddings?,0,wedding,Iran
+1614,feet,yard,inch, What is the unit of measurement for height in China?,0,measurement unit,China
+1615,before,below,after," In India, month before year appears in date format.",0,date format,India
+1616,miligram,pound,ounce, What is the unit of measurement for weight in Kenya?,1,measurement unit,Kenya
+1617,green,black,yellow, What color is the share price represented by in the United States?,0,stock price,United States
+1618,blue,white,black, What color is Iran's share price represented by?,1,stock price,Iran
+1619,red,orange,green, What color will the stock price in India be represented by?,0,stock price,India
+1620,millimeter,inch,meter, What is the unit of measurement for height in China?,2,measurement unit,China
+1621,above,below,after, What month appears in Indian date format?,2,date format,India
+1622,chopsticks,hand,fork, What do Kenyans usually eat food with?,2,food and drink,Kenya
+1623,black,green,white, What color is the clothing of Kenyans usually?,0,funeral,Kenya
+1624,fork,hand,knife, What do Chinese usually eat food with?,2,food and drink,China
+1625,odd,rare,common, Is it common or common practice in Iran to use a broom to clean the floor?,2,broom usage,Iran
+1626,metro,boat,bus, What was the most popular means of transportation in Kenya 30 years ago?,2,transportation,Kenya
+1627,miligram,pound,kilogram, What is the unit of measurement of weight in India?,2,measurement unit,India
+1628,noodles,bread,rice, What is the main food in India?,0,food and drink,India
+1629,odd,common,rare, Is drinking hot water common in India?,1,food and drink,India
+1630,bicycle,bus,plane, What was the most popular mode of transportation in India 30 years ago?,0,transportation,India
+1631,white,orange,blue, What color is the declining share price represented by?,0,stock price,United States
+1632,machines,sun,bathroom, What do Indians dry their clothes in?,1,drying clothes,India
+1633,before,below,after, What month appears in the United States in date format?,2,date format,United States
+1634,yellow,red,black, What color is the wedding dress in Kenya?,1,wedding,Kenya
+1635,ounce,pound,gram, What is Iran's unit of weight?,1,measurement unit,Iran
+1636,common,odd,rare, Is it common or common for people in India to clean the floor with brooms?,0,broom usage,India
+1637,above,before,below, What month does the Chinese calendar show?,1,date format,China
+1638,red,white,green, What color is the clothing of Iranian funerals?,0,funeral,Iran
+1639,odd,common,rare, Is it rare or rare for people in India to drink hot water?,2,food and drink,India
+1640,Rankine,Fahrenheit,Celsius, What is the unit of measurement for the temperature in the United States?,2,measurement unit,United States
+1641,blue,violet,red, What color is the dressing of a traditional Persian funeral?,2,funeral,Iran
+1642,football,tabletennis,soccer, What is India's most popular sport?,2,sports,India
+1643,tabletennis,badminton,cricket, What is the most popular sport in China?,1,sports,China
+1644,odd,rare,common, How common are household servants in China?,2,servant,China
+1645,odd,common,rare, Is sharing food rare or rare in the US?,2,food and drink,United States
+1646,common,odd,rare, Is sharing food rare or rare in India?,2,food and drink,India
+1647,black,yellow,green, What color will be the stock price in Kenya?,0,stock price,Kenya
+1648,green,black,yellow, What color is the wedding dress in traditional American weddings?,1,wedding,United States
+1649,green,orange,blue, What color is the share price represented by in Kenya?,0,stock price,Kenya
+1650,rice,vegetable,potato, What is the staple food of the United States?,1,food and drink,United States
+1651,odd,rare,common, Is it common for adults to live with their parents in India?,2,family,India
+1652,soccer,badminton,baseball, What is Iran's most popular sport?,2,sports,Iran
+1653,hand,spoon,fork, What do Iranians usually eat food with?,2,food and drink,Iran
+1654,rare,common,odd, Is it common for people in the US to clean the floor with brooms?,0,broom usage,United States
+1655,orange,yellow,red, What color is Iran's share price represented by?,2,stock price,Iran
+1656,athletics,football,volleyball, What is the most popular sport in China?,0,sports,China
+1657,after,below,before, What month appears in date format in the United States?,0,date format,United States
+1658,front,back,left," In the United States, the driver's seat is on which side?",2,driver seat,United States
+1659,black,white,red, What color is the clothing of Iranian funerals usually?,2,funeral,Iran
+1660,white,green,blue, What color will represent the rising share price in China?,1,stock price,China
+1661,before,above,after, What month in India appears in date format?,0,date format,India
+1662,bicycle,bus,car, What was the most popular mode of transportation in Kenya 30 years ago?,2,transportation,Kenya
+1663,blue,green,black, What color is the bridal dress in traditional Indian weddings?,1,wedding,India
+1664,odd,common,rare, Is it common or common for people in Iran to clean the floor with brooms?,1,broom usage,Iran
+1665,violet,green,black, What color is the wedding dress in traditional American weddings?,2,wedding,United States
+1666,morning,evening,noon, When do Kenyans usually take a shower?,1,shower time,Kenya
+1667,blue,orange,red, What color is the bridal dress in traditional Indian weddings?,2,wedding,India
+1668,centimeter,mile,millimeter, What is the unit of measurement for height in the United States?,0,measurement unit,United States
+1669,rare,odd,common, Are domestic servants common in Kenya?,2,servant,Kenya
+1670,volleyball,badminton,cricket, What is the most popular sport in India?,2,sports,India
+1671,basketball,volleyball,football, What is the most popular sport in China?,0,sports,China
+1672,badminton,athletics,baseball, What is Iran's most popular sport?,1,sports,Iran
+1673,left,right,back, On which side of a Kenyan car is the driver's seat located?,1,driver seat,Kenya
+1674,above,below,after, What happens after the month?,2,date format,United States
+1675,cricket,soccer,baseball, What is Kenya's most popular sport?,1,sports,Kenya
+1676,hand,spoon,fork, What do Americans usually eat food with?,2,food and drink,United States
+1677,red,blue,green, What color is the dressing of traditional Kenyan funerals?,2,funeral,Kenya
+1678,volleyball,athletics,tabletennis, What is the most popular sport in the United States?,1,sports,United States
+1679,common,odd,rare, Is it rare or rare to see people drink hot water in China?,2,food and drink,China
+1680,odd,rare,common, Is tipping common or common in the United States?,2,payment,United States
+1681,none,more,less, How long does a wedding in India last?,2,wedding,India
+1682,black,red,green, What color is the rising share price represented by in India?,0,stock price,India
+1683,right,back,front," In Kenya, the driver's seat is located on which side?",0,driver seat,Kenya
+1684,bread,fruit,maize, What is the main food in the United States?,2,food and drink,United States
+1685,plane,bus,boat, What was the most popular means of transportation in India 30 years ago?,1,transportation,India
+1686,middle,right,left, What side of the road do people in the US stick to?,2,keep left/right,United States
+1687,black,white,red, What color is the bridal dress in traditional Indian weddings?,0,wedding,India
+1688,knife,chopsticks,hand, What do Kenyans usually use to eat food?,0,food and drink,Kenya
+1689,football,baseball,badminton, What is the most popular sport in Iran?,2,sports,Iran
+1690,rare,odd,common, How often is domestic help in China?,0,servant,China
+1691,common,rare,odd, Is it common for adults to live with their parents in China?,0,family,China
+1692,kilogram,miligram,pound, What is the unit of weight in Kenya?,0,measurement unit,Kenya
+1693,white,violet,orange, What color is the rising share price represented by in India?,0,stock price,India
+1694,above,before,after, What month in Iran appears in date format?,2,date format,Iran
+1695,blue,green,white, What color is the wedding dress in traditional Chinese weddings?,1,wedding,China
+1696,maize,fruit,bread, What is the main staple food in China?,0,food and drink,China
+1697,plane,car,ship, What was the most popular means of transportation in the US 30 years ago?,1,transportation,United States
+1698,right,left,middle," In India, people usually stick to which side?",0,keep left/right,India
+1699,machines,sun,bathroom, Where do the Chinese dry their wet cloths?,0,drying clothes,China
+1700,afternoon,morning,noon, What time of day do Iranians usually take a shower?,1,shower time,Iran
+1701,red,blue,white, What color is used to represent the declining share price in India?,2,stock price,India
+1702,blue,yellow,white, What color will represent the falling share price in the US?,2,stock price,United States
+1703,centimeter,feet,millimeter, What is the unit of height in India?,1,measurement unit,India
+1704,orange,red,black, What color is the wedding dress in Kenya?,2,wedding,Kenya
+1705,vegetable,bread,maize, What is Kenya's staple food?,1,food and drink,Kenya
+1706,gram,miligram,kilogram, What is the unit of measurement in China?,2,measurement unit,China
+1707,chopsticks,hand,spoon, What do people in China usually eat?,2,food and drink,China
+1708,none,less,more, How long do weddings usually last in the United States?,1,wedding,United States
+1709,blue,green,red, What color is the dressing of Chinese funerals?,2,funeral,China
+1710,yellow,red,white, What color is the bridal dress in traditional Chinese weddings?,2,wedding,China
+1711,more,none,less, How long does a wedding in the United States last?,0,wedding,United States
+1712,cricket,volleyball,badminton, What is the most popular sport in India?,2,sports,India
+1713,tabletennis,soccer,football, What is the most popular sport in the US?,1,sports,United States
+1714,football,athletics,cricket, What is the most popular sport in the United States?,1,sports,United States
+1715,ship,train,boat, What was the most popular means of transport in India 30 years ago?,1,transportation,India
+1716,feet,inch,yard, What is the unit of height in India?,1,measurement unit,India
+1717,common,rare,odd, Is it rare or rare for people in the US to drink hot water?,1,food and drink,United States
+1718,violet,white,blue, What color will represent the rising share price in Kenya?,1,stock price,Kenya
+1719,gram,pound,miligram, What is the unit of weight in China?,1,measurement unit,China
+1720,odd,rare,common, Is sharing food common in Iran?,2,food and drink,Iran
+1721,feet,yard,mile, What is the unit of measurement for height in Iran?,0,measurement unit,Iran
+1722,before,below,after, What month in Iran appears in date format?,2,date format,Iran
+1723,green,black,yellow, What color is the wedding dress in traditional Persian weddings?,1,wedding,Iran
+1724,white,red,green, What color is Iran's share price represented by?,1,stock price,Iran
+1725,polar,temperate,dry, What type of climate is the majority of the US?,1,climate,United States
+1726,yellow,green,red, What color is the wedding dress in traditional Indian weddings?,2,wedding,India
+1727,back,left,right," In India, the driver's seat is located on which side?",2,driver seat,India
+1728,rare,odd,common, How often do household servants in India appear?,0,servant,India
+1729,orange,red,white, What color will represent the dropping stock price in Iran?,2,stock price,Iran
+1730,meat,bread,noodles, What is the main staple food in Kenya?,2,food and drink,Kenya
+1731,common,rare,odd, Is it common for customers to pay tips after a meal?,0,payment,Kenya
+1732,white,blue,black, What color is the clothing of a funeral usually?,0,funeral,United States
+1733,blue,white,violet, What color is the wedding dress in Kenya?,1,wedding,Kenya
+1734,yard,feet,inch, What is the unit of height in Iran?,1,measurement unit,Iran
+1735,front,right,left," In Iran, the driver's seat is located on which side?",1,driver seat,Iran
+1736,red,orange,green, What color is the Indian share price represented by?,0,stock price,India
+1737,rice,vegetable,maize, What is the staple food in Kenya?,2,food and drink,Kenya
+1738,rare,odd,common, How often is domestic help in Iran?,0,servant,Iran
+1739,odd,rare,common, Is it common or common practice in China to use a broom to clean the floor?,2,broom usage,China
+1740,before,above,below, What month does the year appear in in the US?,0,date format,United States
+1741,rare,common,odd, What is the use of brooms in China?,1,broom usage,China
+1742,white,black,red, What color will represent the rising share price in China?,1,stock price,China
+1743,more,none,less, How long does a typical Chinese wedding last?,2,wedding,China
+1744,car,train,metro, What was the most popular means of transportation in China 30 years ago?,1,transportation,China
+1745,common,rare,odd, Is sharing food rare or rare in Iran?,1,food and drink,Iran
+1746,orange,green,red, What color is the clothing of Kenyans usually?,1,funeral,Kenya
+1747,cricket,volleyball,badminton, What is the most popular sport in China?,0,sports,China
+1748,machines,bathroom,sun, Where do Indians normally dry their wet cloths?,0,drying clothes,India
+1749,right,middle,left, What side of the road do people in India stick to?,2,keep left/right,India
+1750,black,red,blue, What color is the wedding dress in traditional American weddings?,1,wedding,United States
+1751,rare,odd,common, How often are brooms used to clean the floor in India?,0,broom usage,India
+1752,bicycle,car,metro, What was the most popular means of transport in India 30 years ago?,0,transportation,India
+1753,red,green,orange, What color is the clothing at traditional Chinese funerals?,1,funeral,China
+1754,black,violet,red, What color will represent the falling share price in the United States?,2,stock price,United States
+1755,right,back,left, Where is the driver's seat located in Iran?,0,driver seat,Iran
+1756,volleyball,basketball,badminton, What is Iran's most popular sport?,1,sports,Iran
+1757,Fahrenheit,Rankine,Celsius, What is the Chinese unit of measurement for temperature?,2,measurement unit,China
+1758,athletics,baseball,soccer, What is the most popular sport in India?,1,sports,India
+1759,rice,vegetable,fruit, What is the staple food in the United States?,0,food and drink,United States
+1760,afternoon,noon,morning, What time of day do Indians usually take a shower?,2,shower time,India
+1761,more,less,none, How long does a wedding in Kenya last?,0,wedding,Kenya
+1762,athletics,badminton,cricket, What is the most popular sport in the US?,1,sports,United States
+1763,Rankine,Celsius,Fahrenheit, What is the unit of measurement used in China?,1,measurement unit,China
+1764,white,red,yellow, What color is the wedding dress in traditional Indian weddings?,0,wedding,India
+1765,rice,potato,noodles, What is the staple food in the United States?,0,food and drink,United States
+1766,plane,bicycle,bus, What was the most popular means of transport in Kenya 30 years ago?,1,transportation,Kenya
+1767,rare,common,odd, Is it common for adults to stay with their parents in India?,1,family,India
+1768,maize,fruit,bread, What is the staple food of the United States?,0,food and drink,United States
+1769,violet,red,black, What color is Iran's share price represented by?,2,stock price,Iran
+1770,violet,black,blue, What color is the clothing at traditional Chinese funerals?,1,funeral,China
+1771,maize,vegetable,meat, What is the main food in Kenya?,0,food and drink,Kenya
+1772,knife,chopsticks,hand, What do Indians usually eat?,1,food and drink,India
+1773,baseball,football,badminton, What is the most popular sport in the US?,1,sports,United States
+1774,odd,rare,common, Is it common for adults to stay with their parents in Iran?,2,family,Iran
+1775,red,green,black, What color will the stock price in Iran be represented by?,0,stock price,Iran
+1776,black,violet,blue, What color will represent the stock price in Kenya?,0,stock price,Kenya
+1777,common,odd,rare, Is sharing food rare or rare in the US?,2,food and drink,United States
+1778,evening,morning,noon, What time of day do Iranians normally shower?,1,shower time,Iran
+1779,centimeter,inch,yard, What is the unit of height in the United States?,0,measurement unit,United States
+1780,rice,vegetable,maize, What is the main staple food in the United States?,0,food and drink,United States
+1781,white,yellow,black, What color is the wedding dress in traditional Indian weddings?,0,wedding,India
+1782,vegetable,fruit,noodles, What is the staple food in the United States?,0,food and drink,United States
+1783,orange,red,violet, What color is Iran's share price represented by?,1,stock price,Iran
+1784,green,orange,red, What color is the wedding dress in traditional American weddings?,0,wedding,United States
+1785,red,black,yellow, What color is the falling share price represented by in Kenya?,0,stock price,Kenya
+1786,odd,rare,common, Is it rare or rare for adults to live with their parents in Iran?,1,family,Iran
+1787,Rankine,Fahrenheit,Celsius, What is the temperature unit in China?,1,measurement unit,China
+1788,volleyball,baseball,basketball, What is the most popular sport in China?,1,sports,China
+1789,orange,green,white, What color will represent the rising share price in China?,1,stock price,China
+1790,before,after,below," In China, month appears after year in the date format?",1,date format,China
+1791,common,odd,rare, Is it rare or rare to see people drink hot water in Iran?,2,food and drink,Iran
+1792,hand,spoon,knife, What do people in China usually eat food with?,0,food and drink,China
+1793,Fahrenheit,Rankine,Celsius, What is Iran's temperature unit?,0,measurement unit,Iran
+1794,anywhere,right,middle, What side of the road do people usually stick to when driving in China?,1,keep left/right,China
+1795,blue,violet,green, What color will represent the falling share price in China?,2,stock price,China
+1796,ship,car,train, What was the most popular means of transportation in Kenya 30 years ago?,1,transportation,Kenya
+1797,Celsius,Rankine,Fahrenheit, What is the Indian unit of measurement for temperature?,0,measurement unit,India
+1798,odd,rare,common, Is sharing food common or commonplace in the United States?,2,food and drink,United States
+1799,white,black,green, What color is the clothing of Chinese funerals usually?,2,funeral,China
+1800,rare,odd,common, Is drinking hot water common or uncommon in India?,2,food and drink,India
+1801,front,left,back," In the United States, the driver's seat of a car is located on which side?",1,driver seat,United States
+1802,baseball,basketball,cricket, What is Kenya's most popular sport?,0,sports,Kenya
+1803,white,yellow,red, What color is the clothing at traditional Chinese funerals?,2,funeral,China
+1804,knife,hand,spoon, What do the Chinese usually use to eat food?,0,food and drink,China
+1805,red,white,black, What color will represent the rising share price in the US?,0,stock price,United States
+1806,rare,odd,common, Is tipping common or not?,2,payment,United States
+1807,fork,spoon,knife, What do Americans usually eat food with?,0,food and drink,United States
+1808,orange,violet,green, What color is the dressing of a funeral in the United States?,2,funeral,United States
+1809,evening,afternoon,morning, What time of day do Indians usually take a shower?,2,shower time,India
+1810,yard,meter,centimeter, What is the unit of measurement for height in the United States?,1,measurement unit,United States
+1811,soccer,baseball,tabletennis, What is the most popular sport in the US?,1,sports,United States
+1812,common,rare,odd, How often are brooms used to clean the floor in China?,1,broom usage,China
+1813,volleyball,football,athletics, What is the most popular sport in Kenya?,1,sports,Kenya
+1814,common,rare,odd, Is drinking hot water common or common in Iran?,0,food and drink,Iran
+1815,rare,odd,common, Is sharing food common in China?,2,food and drink,China
+1816,black,blue,white, What color is the wedding dress in traditional Chinese weddings?,2,wedding,China
+1817,ship,metro,bicycle, What was the most popular mode of transportation in Kenya 30 years ago?,2,transportation,Kenya
+1818,kilogram,pound,ounce, What is the unit of measurement of weight in the United States?,0,measurement unit,United States
+1819,knife,spoon,chopsticks, What do people in Kenya usually use to eat food?,0,food and drink,Kenya
+1820,Celsius,Rankine,Fahrenheit, What is Iran's temperature unit?,0,measurement unit,Iran
+1821,common,rare,odd, Is it rare or rare for people in Iran to drink hot water?,1,food and drink,Iran
+1822,green,violet,orange, What color is the clothing at traditional Indian funerals?,0,funeral,India
+1823,red,blue,black, What color is the wedding dress in traditional Chinese weddings?,0,wedding,China
+1824,common,rare,odd, How common are household servants in the United States?,0,servant,United States
+1825,odd,common,rare, Is it common for Iranians to pay tips after a meal?,1,payment,Iran
+1826,noon,evening,morning, When do Chinese people usually shower?,2,shower time,China
+1827,basketball,badminton,cricket, What is the most popular sport in the US?,0,sports,United States
+1828,centimeter,kilometer,feet, What is the unit of height in China?,0,measurement unit,China
+1829,rare,odd,common, Is sharing food common in India?,2,food and drink,India
+1830,plane,car,train, What was the most popular means of transport in Iran 30 years ago?,1,transportation,Iran
+1831,rare,common,odd, How common are domestic servants in China?,0,servant,China
+1832,bathroom,sun,machines, What do Iranians normally dry their clothes in?,1,drying clothes,Iran
+1833,badminton,football,tabletennis, What is the most popular sport in India?,2,sports,India
+1834,red,blue,orange, What color will represent the dropping stock price in China?,0,stock price,China
+1835,rare,common,odd, Is it rare or rare for customers to pay tips after a meal?,0,payment,Kenya
+1836,odd,common,rare, Is tipping common in India?,1,payment,India
+1837,green,blue,black, What color will represent the dropping stock price in Kenya?,0,stock price,Kenya
+1838,machines,sun,bathroom, Where do Chinese usually dry their wet cloths?,0,drying clothes,China
+1839,soccer,tabletennis,football, What is the most popular sport in China?,2,sports,China
+1840,chopsticks,hand,fork, What do the Iranians usually eat food with?,1,food and drink,Iran
+1841,left,right,middle, What side of the road do people usually stick to when driving in the US?,0,keep left/right,United States
+1842,black,red,white, What color will represent the falling share price in China?,2,stock price,China
+1843,cricket,football,soccer, What is the most popular sport in India?,1,sports,India
+1844,blue,red,black, What color is the increasing share price in India?,1,stock price,India
+1845,train,bus,bicycle, What was the most popular means of transportation in India 30 years ago?,1,transportation,India
+1846,odd,common,rare, Is sharing food common in Iran?,1,food and drink,Iran
+1847,white,orange,black, What color is the falling share price represented by in the United States?,2,stock price,United States
+1848,cricket,volleyball,baseball, What is the most popular sport in India?,1,sports,India
+1849,meat,vegetable,maize, What is Iran's staple food?,1,food and drink,Iran
+1850,sun,machines,bathroom, What do Kenyans dry their clothes in?,0,drying clothes,Kenya
+1851,noon,morning,evening, What time of day do Iranians usually take a shower?,1,shower time,Iran
+1852,more,none,less, How long does a wedding in Iran last?,2,wedding,Iran
+1853,fruit,meat,vegetable, What is Kenya's staple food?,2,food and drink,Kenya
+1854,bicycle,boat,train, What was the most popular mode of transportation in Iran 30 years ago?,0,transportation,Iran
+1855,blue,black,white, What color will represent the rising share price in Kenya?,1,stock price,Kenya
+1856,temperate,tropical,polar, What type of areas is Iran?,1,climate,Iran
+1857,continental,tropical,polar, What type of zone is most of China?,1,climate,China
+1858,athletics,baseball,badminton, What is the most popular sport in Kenya?,1,sports,Kenya
+1859,fork,chopsticks,knife, What do people in Iran usually eat?,1,food and drink,Iran
+1860,before,after,above, What month does the year appear in Kenyan date format?,0,date format,Kenya
+1861,none,more,less, How long does a wedding in India last?,2,wedding,India
+1862,polar,tropical,dry, What type of areas is India?,1,climate,India
+1863,kilometer,meter,yard, What is the unit of measurement for height in India?,1,measurement unit,India
+1864,odd,common,rare, Is drinking hot water common in India?,1,food and drink,India
+1865,white,red,violet, What color is the bridal dress in traditional Iranian weddings?,0,wedding,Iran
+1866,below,before,after, What is the year in Kenya?,2,date format,Kenya
+1867,pound,miligram,gram, What is the unit of weight in China?,0,measurement unit,China
+1868,below,after,above," In Iran, month appears after year in the date format?",1,date format,Iran
+1869,soccer,football,volleyball, What is the most popular sport in India?,2,sports,India
+1870,tabletennis,badminton,basketball, What is the most popular sport in China?,1,sports,China
+1871,front,left,right, On which side of a Kenyan car is the driver's seat located?,1,driver seat,Kenya
+1872,black,red,green, What color will represent the dropping stock price in Iran?,0,stock price,Iran
+1873,white,green,blue, What color is the clothing of Iranian funerals usually?,1,funeral,Iran
+1874,white,red,orange, What color is the falling share price represented by in the United States?,0,stock price,United States
